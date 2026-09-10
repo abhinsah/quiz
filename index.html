@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="description"
+    content="Practice subject-wise multiple-choice questions and track your score."
+  />
+
+  <title>QuizNest — Learn one question at a time</title>
+
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <a href="./" class="brand" aria-label="QuizNest homepage">
+        <span class="brand-icon" aria-hidden="true">Q</span>
+        <span>Quiz<span class="brand-accent">Nest</span></span>
+      </a>
+
+      <span class="header-tag">A little practice. A lot of progress.</span>
+    </header>
+
+    <main>
+      <!-- HOMEPAGE -->
+      <section id="home-view" aria-labelledby="home-heading">
+        <div class="hero">
+          <span class="eyebrow">
+            <span class="status-dot" aria-hidden="true"></span>
+            YOUR DAILY LEARNING SPACE
+          </span>
+
+          <h1 id="home-heading" tabindex="-1">
+            Big goals.<br />
+            <span>Small daily quizzes.</span>
+          </h1>
+
+          <p>
+            Pick a subject, challenge yourself, and build your knowledge
+            one question at a time.
+          </p>
+
+          <div class="hero-features">
+            <span>✓ Instant feedback</span>
+            <span>✓ Subject-wise practice</span>
+            <span>✓ Learn at your pace</span>
+          </div>
+        </div>
+
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">FIND YOUR FOCUS</span>
+            <h2>Choose a subject</h2>
+          </div>
+
+          <span class="subject-count">8 subjects</span>
+        </div>
+
+        <p id="loading-message" class="loading-message" role="status" hidden>
+          Loading your questions…
+        </p>
+
+        <div id="error-message" class="error-message" role="alert" hidden></div>
+
+        <div id="subject-grid" class="subject-grid"></div>
+      </section>
+
+      <!-- QUIZ -->
+      <section id="quiz-view" class="quiz-layout" aria-labelledby="quiz-title" hidden>
+        <div class="quiz-toolbar">
+          <button id="quit-button" class="text-button" type="button">
+            ← All subjects
+          </button>
+
+          <span id="subject-badge" class="subject-badge"></span>
+        </div>
+
+        <div class="quiz-card">
+          <div class="quiz-heading">
+            <div>
+              <span class="eyebrow">PRACTICE SESSION</span>
+              <h1 id="quiz-title"></h1>
+            </div>
+
+            <span id="question-counter" class="question-counter"></span>
+          </div>
+
+          <div class="progress-heading">
+            <span>Your progress</span>
+            <span id="progress-label">0% complete</span>
+          </div>
+
+          <progress id="quiz-progress" value="0" max="100">
+            0%
+          </progress>
+
+          <div class="question-area">
+            <p id="question-label" class="eyebrow"></p>
+
+            <h2 id="question-text" tabindex="-1"></h2>
+
+            <p class="question-hint">Choose one answer below.</p>
+
+            <div
+              id="options-container"
+              class="options-container"
+              role="group"
+              aria-labelledby="question-text"
+            ></div>
+
+            <div
+              id="answer-feedback"
+              class="answer-feedback"
+              role="status"
+              aria-live="polite"
+              aria-atomic="true"
+            ></div>
+          </div>
+
+          <div class="quiz-bottom">
+            <div class="live-score" aria-label="Current score">
+              <span class="correct-count">
+                <span aria-hidden="true">✓</span>
+                <span id="live-correct">0</span> correct
+              </span>
+
+              <span class="wrong-count">
+                <span aria-hidden="true">✕</span>
+                <span id="live-wrong">0</span> wrong
+              </span>
+            </div>
+
+            <button
+              id="next-button"
+              class="button button-primary"
+              type="button"
+              hidden
+            >
+              Next question →
+            </button>
+          </div>
+        </div>
+
+        <p class="quiz-note">
+          Take your time. Every question is a chance to learn.
+        </p>
+      </section>
+
+      <!-- RESULTS -->
+      <section
+        id="results-view"
+        class="results-layout"
+        aria-labelledby="results-title"
+        hidden
+      >
+        <div class="results-card">
+          <div class="result-icon" aria-hidden="true">🏆</div>
+
+          <span class="eyebrow">PRACTICE COMPLETE</span>
+          <h1 id="results-title" tabindex="-1">Nicely done!</h1>
+          <p id="result-message" class="result-message"></p>
+
+          <div id="score-ring" class="score-ring">
+            <div class="score-ring-inner">
+              <strong id="score-percentage"></strong>
+              <span>Accuracy</span>
+            </div>
+          </div>
+
+          <p id="score-summary" class="score-summary"></p>
+
+          <div class="result-stats">
+            <div class="result-stat">
+              <span>Total questions</span>
+              <strong id="result-total"></strong>
+            </div>
+
+            <div class="result-stat result-stat-correct">
+              <span>Correct</span>
+              <strong id="result-correct"></strong>
+            </div>
+
+            <div class="result-stat result-stat-wrong">
+              <span>Wrong</span>
+              <strong id="result-wrong"></strong>
+            </div>
+          </div>
+
+          <div class="result-actions">
+            <button id="retry-button" class="button button-primary" type="button">
+              Try again ↻
+            </button>
+
+            <button id="home-button" class="button button-secondary" type="button">
+              Choose another subject
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      Made for curious minds. Keep showing up.
+    </footer>
+  </div>
+</body>
+</html>

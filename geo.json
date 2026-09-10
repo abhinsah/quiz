@@ -1,0 +1,5502 @@
+[
+  {
+    "question_number": 1,
+    "question": "Earth’s equatorial bulge is primarily a consequence of its:",
+    "options": {
+      "A": "Revolution around the Sun",
+      "B": "Rotation on its axis",
+      "C": "Lunar eclipses",
+      "D": "Axial precession"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "Which latitude is a great circle?",
+    "options": {
+      "A": "Tropic of Cancer",
+      "B": "Arctic Circle",
+      "C": "Equator",
+      "D": "Tropic of Capricorn"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 3,
+    "question": "The distance represented by one degree of longitude is greatest at the:",
+    "options": {
+      "A": "Equator",
+      "B": "Tropic of Cancer",
+      "C": "Arctic Circle",
+      "D": "Poles"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 4,
+    "question": "The angular speed of Earth’s rotation is approximately:",
+    "options": {
+      "A": "1° per hour",
+      "B": "10° per hour",
+      "C": "30° per hour",
+      "D": "15° per hour"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 5,
+    "question": "A longitude difference of 15° corresponds to a local solar time difference of:",
+    "options": {
+      "A": "15 minutes",
+      "B": "30 minutes",
+      "C": "60 minutes",
+      "D": "120 minutes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 6,
+    "question": "When it is noon at Greenwich, local solar time at 75°E is:",
+    "options": {
+      "A": "7 a.m.",
+      "B": "5 p.m.",
+      "C": "3 p.m.",
+      "D": "7 p.m."
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "When it is noon at 30°E, local solar time at 45°W is:",
+    "options": {
+      "A": "7 a.m.",
+      "B": "9 a.m.",
+      "C": "5 p.m.",
+      "D": "3 p.m."
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "Indian Standard Time is based on the meridian:",
+    "options": {
+      "A": "75°E",
+      "B": "90°E",
+      "C": "80°30′E",
+      "D": "82°30′E"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 9,
+    "question": "Crossing the International Date Line westward generally requires a traveller to:",
+    "options": {
+      "A": "Subtract one day",
+      "B": "Add one day",
+      "C": "Subtract one hour",
+      "D": "Add twelve hours"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 10,
+    "question": "Which statement about parallels of latitude is correct?",
+    "options": {
+      "A": "All are equal in length",
+      "B": "All intersect at the poles",
+      "C": "Their circumference decreases poleward",
+      "D": "All are great circles"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 11,
+    "question": "Earth’s seasons primarily result from:",
+    "options": {
+      "A": "Axial tilt and revolution",
+      "B": "Changes in Earth–Sun distance alone",
+      "C": "Lunar gravity",
+      "D": "Daily rotation alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 12,
+    "question": "Around 21 June, the overhead noon Sun is at the:",
+    "options": {
+      "A": "Equator",
+      "B": "Tropic of Capricorn",
+      "C": "Antarctic Circle",
+      "D": "Tropic of Cancer"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 13,
+    "question": "Around the December solstice, the longest daylight occurs in the:",
+    "options": {
+      "A": "Northern Hemisphere",
+      "B": "Southern Hemisphere",
+      "C": "Entire world equally",
+      "D": "Arctic region only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "At an equinox, the Sun’s direct rays fall on the:",
+    "options": {
+      "A": "Arctic Circle",
+      "B": "Tropic of Cancer",
+      "C": "Equator",
+      "D": "Tropic of Capricorn"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 15,
+    "question": "Earth is closest to the Sun approximately in:",
+    "options": {
+      "A": "Early January",
+      "B": "Early April",
+      "C": "Early July",
+      "D": "Early October"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question": "The circle of illumination separates:",
+    "options": {
+      "A": "Eastern and western hemispheres",
+      "B": "Tropical and temperate zones",
+      "C": "Land and water",
+      "D": "Day and night hemispheres"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 17,
+    "question": "A location at 70°N can experience midnight Sun because it lies:",
+    "options": {
+      "A": "Within the tropics",
+      "B": "North of the Arctic Circle",
+      "C": "On the Prime Meridian",
+      "D": "South of the Antarctic Circle"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 18,
+    "question": "Earth’s rotational linear velocity is:",
+    "options": {
+      "A": "Equal everywhere",
+      "B": "Greatest at the poles",
+      "C": "Greatest at the Equator",
+      "D": "Zero at the Equator"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 19,
+    "question": "Eratosthenes estimated Earth’s circumference using observations at:",
+    "options": {
+      "A": "Alexandria and Syene",
+      "B": "Athens and Rome",
+      "C": "Troy and Babylon",
+      "D": "Cairo and Jerusalem"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 20,
+    "question": "The most abundant element in Earth’s crust by weight is:",
+    "options": {
+      "A": "Silicon",
+      "B": "Aluminium",
+      "C": "Iron",
+      "D": "Oxygen"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 21,
+    "question": "Which is the correct descending order of abundance in Earth’s crust?",
+    "options": {
+      "A": "Silicon–oxygen–aluminium",
+      "B": "Oxygen–silicon–aluminium",
+      "C": "Aluminium–oxygen–silicon",
+      "D": "Iron–silicon–oxygen"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 22,
+    "question": "The most abundant metallic element in Earth’s crust is:",
+    "options": {
+      "A": "Iron",
+      "B": "Calcium",
+      "C": "Aluminium",
+      "D": "Magnesium"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 23,
+    "question": "The boundary between Earth’s crust and mantle is the:",
+    "options": {
+      "A": "Mohorovičić discontinuity",
+      "B": "Gutenberg discontinuity",
+      "C": "Tropopause",
+      "D": "Lehmann discontinuity"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "The Gutenberg discontinuity separates the:",
+    "options": {
+      "A": "Crust and mantle",
+      "B": "Inner and outer core",
+      "C": "Lithosphere and atmosphere",
+      "D": "Mantle and outer core"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 25,
+    "question": "Earth’s outer core is predominantly:",
+    "options": {
+      "A": "Solid silicate",
+      "B": "Liquid iron-rich material",
+      "C": "Gaseous hydrogen",
+      "D": "Solid granite"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 26,
+    "question": "The lithosphere consists of the:",
+    "options": {
+      "A": "Crust alone",
+      "B": "Entire mantle",
+      "C": "Crust and rigid uppermost mantle",
+      "D": "Mantle and core"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 27,
+    "question": "The asthenosphere is important for plate movement because it is:",
+    "options": {
+      "A": "Mechanically weak and capable of slow flow",
+      "B": "Entirely gaseous",
+      "C": "Colder than the crust",
+      "D": "Earth’s magnetic centre"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 28,
+    "question": "Which seismic waves cannot pass through liquids?",
+    "options": {
+      "A": "P-waves",
+      "B": "Sound waves",
+      "C": "All body waves",
+      "D": "S-waves"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 29,
+    "question": "The fastest seismic body waves are:",
+    "options": {
+      "A": "S-waves",
+      "B": "P-waves",
+      "C": "Love waves",
+      "D": "Rayleigh waves"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 30,
+    "question": "The point inside Earth where an earthquake rupture begins is the:",
+    "options": {
+      "A": "Epicentre",
+      "B": "Anticline",
+      "C": "Hypocentre",
+      "D": "Isobath"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 31,
+    "question": "The point on Earth’s surface directly above an earthquake’s focus is the:",
+    "options": {
+      "A": "Epicentre",
+      "B": "Seismic gap",
+      "C": "Fault scarp",
+      "D": "Nodal point"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "The Modified Mercalli scale measures earthquake:",
+    "options": {
+      "A": "Depth",
+      "B": "Duration",
+      "C": "Magnitude",
+      "D": "Intensity"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 33,
+    "question": "An increase of one unit on the Richter magnitude scale corresponds approximately to a seismic-wave amplitude increase of:",
+    "options": {
+      "A": "Two times",
+      "B": "Ten times",
+      "C": "Thirty-two times",
+      "D": "Hundred times"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 34,
+    "question": "The Himalayas formed mainly through collision between the:",
+    "options": {
+      "A": "Pacific and Eurasian plates",
+      "B": "African and Arabian plates",
+      "C": "Indian and Eurasian plates",
+      "D": "Antarctic and Australian plates"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 35,
+    "question": "New oceanic crust is principally created at:",
+    "options": {
+      "A": "Mid-ocean ridges",
+      "B": "Ocean trenches",
+      "C": "Continental collision zones",
+      "D": "Transform faults"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 36,
+    "question": "The San Andreas Fault is associated with a:",
+    "options": {
+      "A": "Continental collision boundary",
+      "B": "Subduction boundary",
+      "C": "Divergent boundary",
+      "D": "Transform boundary"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 37,
+    "question": "Deep-sea trenches are most commonly associated with:",
+    "options": {
+      "A": "Continental interiors",
+      "B": "Subduction zones",
+      "C": "River deltas",
+      "D": "Stable shields"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 38,
+    "question": "The Pacific Ring of Fire is characterised by abundant:",
+    "options": {
+      "A": "Coral atolls only",
+      "B": "Desert basins",
+      "C": "Earthquakes and volcanoes",
+      "D": "Continental glaciers only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 39,
+    "question": "Hawaiian volcanism is primarily associated with a:",
+    "options": {
+      "A": "Hotspot",
+      "B": "Continental collision",
+      "C": "River fault",
+      "D": "Glacial rebound zone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "The Deccan Traps largely consist of:",
+    "options": {
+      "A": "Granite",
+      "B": "Sandstone",
+      "C": "Limestone",
+      "D": "Basalt"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 41,
+    "question": "Granite is an example of a/an:",
+    "options": {
+      "A": "Extrusive igneous rock",
+      "B": "Intrusive igneous rock",
+      "C": "Organic sedimentary rock",
+      "D": "Metamorphic rock"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 42,
+    "question": "Basalt typically has fine crystals because its lava:",
+    "options": {
+      "A": "Contains no minerals",
+      "B": "Cools very slowly",
+      "C": "Cools relatively rapidly",
+      "D": "Forms only underwater"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 43,
+    "question": "Marble is formed by metamorphism of:",
+    "options": {
+      "A": "Limestone",
+      "B": "Sandstone",
+      "C": "Shale",
+      "D": "Basalt"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 44,
+    "question": "Quartzite is formed by metamorphism of:",
+    "options": {
+      "A": "Coal",
+      "B": "Limestone",
+      "C": "Granite",
+      "D": "Sandstone"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 45,
+    "question": "Slate commonly develops from metamorphism of:",
+    "options": {
+      "A": "Conglomerate",
+      "B": "Shale",
+      "C": "Limestone",
+      "D": "Rock salt"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 46,
+    "question": "Which rock is composed mainly of rounded pebbles cemented together?",
+    "options": {
+      "A": "Breccia",
+      "B": "Shale",
+      "C": "Conglomerate",
+      "D": "Obsidian"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 47,
+    "question": "Which mineral is commonly greenish and rich in magnesium and iron?",
+    "options": {
+      "A": "Olivine",
+      "B": "Calcite",
+      "C": "Gypsum",
+      "D": "Halite"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "The mineral group most abundant in Earth’s crust is:",
+    "options": {
+      "A": "Mica",
+      "B": "Olivine",
+      "C": "Calcite",
+      "D": "Feldspar"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 49,
+    "question": "Which mineral has a hardness of 10 on the Mohs scale?",
+    "options": {
+      "A": "Quartz",
+      "B": "Diamond",
+      "C": "Corundum",
+      "D": "Topaz"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 50,
+    "question": "Which rock is formed through chemical precipitation associated with hot springs?",
+    "options": {
+      "A": "Loess",
+      "B": "Conglomerate",
+      "C": "Geyserite",
+      "D": "Sandstone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 51,
+    "question": "Weathering differs from erosion because weathering involves:",
+    "options": {
+      "A": "Breakdown in place",
+      "B": "Transport by rivers only",
+      "C": "Deposition in oceans",
+      "D": "Movement by wind only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 52,
+    "question": "Expansion of minerals through absorption of water is called:",
+    "options": {
+      "A": "Oxidation",
+      "B": "Carbonation",
+      "C": "Exfoliation",
+      "D": "Hydration"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 53,
+    "question": "The reaction of feldspar with water to form clay minerals is an example of:",
+    "options": {
+      "A": "Deflation",
+      "B": "Hydrolysis",
+      "C": "Abrasion",
+      "D": "Frost action"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 54,
+    "question": "Dissolution of limestone by carbonic acid is called:",
+    "options": {
+      "A": "Oxidation",
+      "B": "Hydration",
+      "C": "Carbonation",
+      "D": "Insolation weathering"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 55,
+    "question": "Rusting of iron-bearing minerals is an example of:",
+    "options": {
+      "A": "Oxidation",
+      "B": "Exfoliation",
+      "C": "Attrition",
+      "D": "Deflation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 56,
+    "question": "Which is predominantly mechanical weathering?",
+    "options": {
+      "A": "Carbonation",
+      "B": "Hydrolysis",
+      "C": "Oxidation",
+      "D": "Salt-crystal growth"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 57,
+    "question": "Frost weathering is most effective where temperatures:",
+    "options": {
+      "A": "Remain permanently above 30°C",
+      "B": "Repeatedly cross the freezing point",
+      "C": "Remain constant",
+      "D": "Never rise above −50°C"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 58,
+    "question": "Removal of outer rock layers in sheets is called:",
+    "options": {
+      "A": "Carbonation",
+      "B": "Hydration",
+      "C": "Exfoliation",
+      "D": "Solution"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 59,
+    "question": "Chemical weathering is generally most rapid in:",
+    "options": {
+      "A": "Warm, humid climates",
+      "B": "Cold, dry climates",
+      "C": "Polar deserts",
+      "D": "Permanently frozen ground"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "Soil creep is a:",
+    "options": {
+      "A": "Rapid rock avalanche",
+      "B": "Volcanic mudflow",
+      "C": "River-transport process",
+      "D": "Slow downslope movement"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 61,
+    "question": "Solifluction is especially associated with:",
+    "options": {
+      "A": "Coral reefs",
+      "B": "Waterlogged soil over frozen ground",
+      "C": "Sand dunes",
+      "D": "Deep ocean floors"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 62,
+    "question": "A volcanic mudflow is called a:",
+    "options": {
+      "A": "Moraine",
+      "B": "Yardang",
+      "C": "Lahar",
+      "D": "Loess"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 63,
+    "question": "A river’s competence refers to the:",
+    "options": {
+      "A": "Largest particle size it can transport",
+      "B": "Total water in its basin",
+      "C": "Number of tributaries",
+      "D": "Annual rainfall"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 64,
+    "question": "A river’s capacity refers to the:",
+    "options": {
+      "A": "Width of its floodplain",
+      "B": "Maximum depth",
+      "C": "Largest boulder it carries",
+      "D": "Total sediment load it can transport"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 65,
+    "question": "A tree-like drainage pattern on relatively uniform rock is:",
+    "options": {
+      "A": "Trellis",
+      "B": "Dendritic",
+      "C": "Rectangular",
+      "D": "Annular"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 66,
+    "question": "Streams flowing outward from a central elevated area form a:",
+    "options": {
+      "A": "Centripetal pattern",
+      "B": "Trellis pattern",
+      "C": "Radial pattern",
+      "D": "Rectangular pattern"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 67,
+    "question": "Streams converging into an inland depression form a:",
+    "options": {
+      "A": "Centripetal pattern",
+      "B": "Radial pattern",
+      "C": "Parallel pattern",
+      "D": "Trellis pattern"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 68,
+    "question": "Drainage strongly controlled by joints and faults commonly produces a:",
+    "options": {
+      "A": "Dendritic pattern",
+      "B": "Radial pattern",
+      "C": "Centripetal pattern",
+      "D": "Rectangular pattern"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 69,
+    "question": "A trellis drainage pattern is commonly associated with:",
+    "options": {
+      "A": "Uniform volcanic cones",
+      "B": "Alternating resistant and weak rock belts",
+      "C": "Circular lakes",
+      "D": "Flat coral islands"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 70,
+    "question": "A consequent stream follows the:",
+    "options": {
+      "A": "Direction opposite to the original slope",
+      "B": "Course of a buried river",
+      "C": "Original slope of the land",
+      "D": "Path of a glacier only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 71,
+    "question": "An antecedent river:",
+    "options": {
+      "A": "Maintains its course while the land is uplifted",
+      "B": "Always flows underground",
+      "C": "Forms only in deserts",
+      "D": "Has no tributaries"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "A superimposed river acquires its course on:",
+    "options": {
+      "A": "Newly formed ocean crust",
+      "B": "A permanent glacier",
+      "C": "A tidal flat",
+      "D": "A former cover of rocks or sediments"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 73,
+    "question": "Erosion on a meander is normally greatest along the:",
+    "options": {
+      "A": "Inner bank",
+      "B": "Outer bank",
+      "C": "Central bar",
+      "D": "Floodplain edge only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 74,
+    "question": "Deposition on a meander’s inner bank forms a:",
+    "options": {
+      "A": "Sea stack",
+      "B": "Cirque",
+      "C": "Point bar",
+      "D": "Fault scarp"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 75,
+    "question": "An oxbow lake forms through:",
+    "options": {
+      "A": "Meander cutoff",
+      "B": "Volcanic eruption",
+      "C": "Coral growth",
+      "D": "Wind excavation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 76,
+    "question": "Natural levees are formed by deposition:",
+    "options": {
+      "A": "At river sources",
+      "B": "Beneath waterfalls",
+      "C": "In deep ocean trenches",
+      "D": "Beside channels during floods"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 77,
+    "question": "An alluvial fan typically forms where a stream:",
+    "options": {
+      "A": "Enters a narrow gorge",
+      "B": "Emerges from mountains onto a plain",
+      "C": "Crosses a glacier",
+      "D": "Reaches a trench"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 78,
+    "question": "A delta is favoured where:",
+    "options": {
+      "A": "Marine removal exceeds river deposition",
+      "B": "River sediment supply is negligible",
+      "C": "Sediment deposition exceeds removal",
+      "D": "Only rocky cliffs occur"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 79,
+    "question": "Incised meanders often indicate:",
+    "options": {
+      "A": "River rejuvenation and renewed downcutting",
+      "B": "Complete drying of the river",
+      "C": "Wind deposition",
+      "D": "Coral emergence"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "River potholes are mainly produced by:",
+    "options": {
+      "A": "Salt crystallisation",
+      "B": "Frost expansion",
+      "C": "Plant roots",
+      "D": "Rotating pebbles and abrasion"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 81,
+    "question": "A U-shaped valley is most characteristic of:",
+    "options": {
+      "A": "Wind erosion",
+      "B": "Glacial erosion",
+      "C": "Groundwater deposition",
+      "D": "Marine deposition"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 82,
+    "question": "A bowl-shaped hollow at the head of a glacial valley is a:",
+    "options": {
+      "A": "Spit",
+      "B": "Doline",
+      "C": "Cirque",
+      "D": "Bajada"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 83,
+    "question": "A sharp ridge separating two glacial cirques is an:",
+    "options": {
+      "A": "Arête",
+      "B": "Esker",
+      "C": "Drumlin",
+      "D": "Oxbow"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 84,
+    "question": "A pyramidal peak produced by erosion from several cirques is a:",
+    "options": {
+      "A": "Mesa",
+      "B": "Butte",
+      "C": "Tor",
+      "D": "Horn"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 85,
+    "question": "A fjord is a:",
+    "options": {
+      "A": "Wind-eroded depression",
+      "B": "Drowned glacial valley",
+      "C": "Coral lagoon",
+      "D": "River island"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 86,
+    "question": "An unsorted deposit laid down directly by glacier ice is:",
+    "options": {
+      "A": "Loess",
+      "B": "Alluvium",
+      "C": "Till",
+      "D": "Beach sand"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 87,
+    "question": "A long, winding ridge deposited by a subglacial stream is an:",
+    "options": {
+      "A": "Esker",
+      "B": "Arête",
+      "C": "Yardang",
+      "D": "Stack"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 88,
+    "question": "An elongated hill moulded beneath glacier ice is a:",
+    "options": {
+      "A": "Doline",
+      "B": "Spit",
+      "C": "Cirque",
+      "D": "Drumlin"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 89,
+    "question": "Ice-cored hills in periglacial regions are called:",
+    "options": {
+      "A": "Inselbergs",
+      "B": "Pingos",
+      "C": "Mesas",
+      "D": "Zeugen"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 90,
+    "question": "Removal of loose particles by wind is:",
+    "options": {
+      "A": "Hydration",
+      "B": "Plucking",
+      "C": "Deflation",
+      "D": "Carbonation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 91,
+    "question": "Loess consists predominantly of wind-deposited:",
+    "options": {
+      "A": "Silt",
+      "B": "Boulders",
+      "C": "Pebbles",
+      "D": "Coral fragments"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 92,
+    "question": "The horns of a typical barchan dune point:",
+    "options": {
+      "A": "Upslope",
+      "B": "Towards the wind",
+      "C": "Northward",
+      "D": "Downwind"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 93,
+    "question": "A streamlined ridge carved by wind abrasion is a:",
+    "options": {
+      "A": "Drumlin",
+      "B": "Yardang",
+      "C": "Moraine",
+      "D": "Levee"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 94,
+    "question": "An isolated residual hill rising from a plain is an:",
+    "options": {
+      "A": "Esker",
+      "B": "Doline",
+      "C": "Inselberg",
+      "D": "Spit"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 95,
+    "question": "Coalescing alluvial fans at a mountain front form a:",
+    "options": {
+      "A": "Bajada",
+      "B": "Fjord",
+      "C": "Cirque",
+      "D": "Tombolo"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "A flat-floored desert basin that may hold a temporary lake is a:",
+    "options": {
+      "A": "Horn",
+      "B": "Arête",
+      "C": "Sea cave",
+      "D": "Playa"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 97,
+    "question": "A sand ridge connecting an island to the mainland is a:",
+    "options": {
+      "A": "Spit",
+      "B": "Tombolo",
+      "C": "Stack",
+      "D": "Cliff"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 98,
+    "question": "A sea stack usually develops after the collapse of a:",
+    "options": {
+      "A": "Delta",
+      "B": "Lagoon",
+      "C": "Sea arch",
+      "D": "Sand dune"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 99,
+    "question": "A long depositional ridge attached to land at one end is a:",
+    "options": {
+      "A": "Spit",
+      "B": "Cirque",
+      "C": "Pothole",
+      "D": "Gorge"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "Barrier islands are generally separated from the mainland by:",
+    "options": {
+      "A": "Deep-sea trenches",
+      "B": "Mountain chains",
+      "C": "Glaciers",
+      "D": "Lagoons or shallow marshes"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 101,
+    "question": "The most abundant gas in dry air is:",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Argon",
+      "D": "Carbon dioxide"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 102,
+    "question": "The approximate proportion of oxygen in dry air is:",
+    "options": {
+      "A": "1%",
+      "B": "10%",
+      "C": "21%",
+      "D": "78%"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 103,
+    "question": "Which is the third most abundant gas in dry air?",
+    "options": {
+      "A": "Argon",
+      "B": "Carbon dioxide",
+      "C": "Hydrogen",
+      "D": "Helium"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 104,
+    "question": "Most atmospheric water vapour is concentrated in the:",
+    "options": {
+      "A": "Mesosphere",
+      "B": "Thermosphere",
+      "C": "Exosphere",
+      "D": "Troposphere"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 105,
+    "question": "Most weather phenomena occur in the:",
+    "options": {
+      "A": "Stratosphere",
+      "B": "Troposphere",
+      "C": "Mesosphere",
+      "D": "Exosphere"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 106,
+    "question": "The troposphere is generally thickest over the:",
+    "options": {
+      "A": "Poles",
+      "B": "Mid-latitudes",
+      "C": "Equator",
+      "D": "Ocean trenches"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 107,
+    "question": "Temperature normally increases with height in the stratosphere because of:",
+    "options": {
+      "A": "Ozone absorption of ultraviolet radiation",
+      "B": "Surface convection",
+      "C": "Geothermal heat",
+      "D": "Ocean evaporation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 108,
+    "question": "The coldest atmospheric layer is generally the:",
+    "options": {
+      "A": "Troposphere",
+      "B": "Stratosphere",
+      "C": "Thermosphere",
+      "D": "Mesosphere"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 109,
+    "question": "The ionosphere is important for:",
+    "options": {
+      "A": "Soil formation",
+      "B": "Radio-wave propagation",
+      "C": "River erosion",
+      "D": "Coral growth"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 110,
+    "question": "Insolation means:",
+    "options": {
+      "A": "Outgoing terrestrial radiation",
+      "B": "Heat conducted from the core",
+      "C": "Incoming solar radiation",
+      "D": "Heat released by volcanoes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 111,
+    "question": "Earth emits most of its radiation as:",
+    "options": {
+      "A": "Longwave infrared radiation",
+      "B": "Ultraviolet radiation",
+      "C": "X-rays",
+      "D": "Gamma rays"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 112,
+    "question": "Albedo is the proportion of incoming radiation that is:",
+    "options": {
+      "A": "Absorbed",
+      "B": "Converted into rainfall",
+      "C": "Conducted underground",
+      "D": "Reflected"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 113,
+    "question": "Which surface generally has the highest albedo?",
+    "options": {
+      "A": "Dense forest",
+      "B": "Fresh snow",
+      "C": "Wet soil",
+      "D": "Open ocean at high Sun angle"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 114,
+    "question": "The normal environmental lapse rate is approximately:",
+    "options": {
+      "A": "1°C per kilometre",
+      "B": "3°C per kilometre",
+      "C": "6.5°C per kilometre",
+      "D": "15°C per kilometre"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 115,
+    "question": "A temperature inversion occurs when temperature:",
+    "options": {
+      "A": "Increases with height over a layer",
+      "B": "Decreases uniformly with height",
+      "C": "Remains high throughout the year",
+      "D": "Equals the dew point everywhere"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 116,
+    "question": "Radiation inversions are favoured by:",
+    "options": {
+      "A": "Cloudy, windy nights",
+      "B": "Heavy daytime rain",
+      "C": "Strong turbulent winds",
+      "D": "Clear, calm, long nights"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 117,
+    "question": "Surface temperature inversions tend to:",
+    "options": {
+      "A": "Enhance vertical mixing",
+      "B": "Trap pollutants near the ground",
+      "C": "Eliminate fog",
+      "D": "Generate ocean tides"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 118,
+    "question": "During clear nights, cold air often collects in valleys because it:",
+    "options": {
+      "A": "Becomes less dense",
+      "B": "Flows only uphill",
+      "C": "Becomes dense and drains downslope",
+      "D": "Absorbs more sunlight"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 119,
+    "question": "Atmospheric pressure is measured using a:",
+    "options": {
+      "A": "Barometer",
+      "B": "Hygrometer",
+      "C": "Anemometer",
+      "D": "Rain gauge"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 120,
+    "question": "Lines joining places of equal atmospheric pressure are:",
+    "options": {
+      "A": "Isotherms",
+      "B": "Isohyets",
+      "C": "Isohalines",
+      "D": "Isobars"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 121,
+    "question": "Closely spaced isobars indicate a:",
+    "options": {
+      "A": "Weak pressure gradient",
+      "B": "Strong pressure gradient",
+      "C": "Uniform temperature",
+      "D": "High rainfall total"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 122,
+    "question": "The pressure-gradient force acts from:",
+    "options": {
+      "A": "Low towards high pressure",
+      "B": "East towards west only",
+      "C": "High towards low pressure",
+      "D": "Poles towards Equator only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 123,
+    "question": "The Coriolis force deflects moving air to the right in the:",
+    "options": {
+      "A": "Northern Hemisphere",
+      "B": "Southern Hemisphere",
+      "C": "Equatorial plane only",
+      "D": "Entire world equally"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 124,
+    "question": "The Coriolis effect is zero at the:",
+    "options": {
+      "A": "Poles",
+      "B": "Tropics",
+      "C": "Mid-latitudes",
+      "D": "Equator"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 125,
+    "question": "Geostrophic wind flows approximately:",
+    "options": {
+      "A": "Across isobars towards low pressure",
+      "B": "Parallel to isobars",
+      "C": "Vertically upwards",
+      "D": "Towards the Equator only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 126,
+    "question": "The doldrums are associated with:",
+    "options": {
+      "A": "Polar high pressure",
+      "B": "Subtropical high pressure",
+      "C": "Equatorial low pressure",
+      "D": "Continental winter high pressure"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 127,
+    "question": "Horse latitudes occur approximately near:",
+    "options": {
+      "A": "30° north and south",
+      "B": "60° north and south",
+      "C": "90° north and south",
+      "D": "0° latitude"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 128,
+    "question": "Trade winds blow mainly from subtropical highs towards the:",
+    "options": {
+      "A": "Polar highs",
+      "B": "Subpolar lows",
+      "C": "Westerly belt",
+      "D": "Equatorial low-pressure belt"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 129,
+    "question": "In the Northern Hemisphere, trade winds are predominantly:",
+    "options": {
+      "A": "Southwesterly",
+      "B": "Northeasterly",
+      "C": "Northwesterly",
+      "D": "Southeasterly"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 130,
+    "question": "The prevailing winds between about 30° and 60° latitude are:",
+    "options": {
+      "A": "Polar easterlies",
+      "B": "Trade winds",
+      "C": "Westerlies",
+      "D": "Doldrums"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 131,
+    "question": "The Hadley cell involves rising air near the Equator and sinking air near:",
+    "options": {
+      "A": "30° latitude",
+      "B": "60° latitude",
+      "C": "90° latitude",
+      "D": "10° longitude"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 132,
+    "question": "A daytime sea breeze blows from:",
+    "options": {
+      "A": "Land towards sea",
+      "B": "Mountains towards valleys",
+      "C": "Poles towards tropics",
+      "D": "Sea towards land"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 133,
+    "question": "A land breeze is most commonly experienced during:",
+    "options": {
+      "A": "Summer afternoons",
+      "B": "Night",
+      "C": "Noon",
+      "D": "An equinox only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 134,
+    "question": "An anabatic wind blows:",
+    "options": {
+      "A": "Down a slope at night",
+      "B": "Across a sea trench",
+      "C": "Upslope during daytime heating",
+      "D": "From poles to Equator"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 135,
+    "question": "A katabatic wind is a:",
+    "options": {
+      "A": "Downslope flow of cold, dense air",
+      "B": "Warm equatorial current",
+      "C": "Tropical cyclone",
+      "D": "Daytime sea breeze"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 136,
+    "question": "Relative humidity is the ratio of actual water vapour to saturation amount at the same:",
+    "options": {
+      "A": "Longitude",
+      "B": "Wind speed",
+      "C": "Altitude only",
+      "D": "Temperature"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 137,
+    "question": "If air cools without losing water vapour, its relative humidity generally:",
+    "options": {
+      "A": "Falls",
+      "B": "Rises",
+      "C": "Remains unchanged",
+      "D": "Becomes zero"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 138,
+    "question": "The temperature at which air becomes saturated is the:",
+    "options": {
+      "A": "Freezing point",
+      "B": "Boiling point",
+      "C": "Dew point",
+      "D": "Melting point"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 139,
+    "question": "Condensation is aided by atmospheric:",
+    "options": {
+      "A": "Hygroscopic nuclei",
+      "B": "Ocean trenches",
+      "C": "Magnetic poles",
+      "D": "Isobars"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 140,
+    "question": "Advection fog develops when moist air moves over a:",
+    "options": {
+      "A": "Warmer surface",
+      "B": "Desert only",
+      "C": "Volcanic vent",
+      "D": "Colder surface"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 141,
+    "question": "Radiation fog is primarily associated with:",
+    "options": {
+      "A": "Oceanic upwelling",
+      "B": "Nocturnal cooling of the ground",
+      "C": "Hot desert winds",
+      "D": "Stratospheric warming"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 142,
+    "question": "Thin, wispy high clouds composed mainly of ice crystals are:",
+    "options": {
+      "A": "Stratus",
+      "B": "Cumulus",
+      "C": "Cirrus",
+      "D": "Nimbostratus"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 143,
+    "question": "A high cloud layer commonly producing halos is:",
+    "options": {
+      "A": "Cirrostratus",
+      "B": "Stratus",
+      "C": "Cumulus humilis",
+      "D": "Nimbostratus"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 144,
+    "question": "The high cloud associated with a “mackerel sky” is:",
+    "options": {
+      "A": "Altostratus",
+      "B": "Stratus",
+      "C": "Cumulonimbus",
+      "D": "Cirrocumulus"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 145,
+    "question": "Low, uniform, sheet-like clouds are typically:",
+    "options": {
+      "A": "Cirrus",
+      "B": "Stratus",
+      "C": "Cirrocumulus",
+      "D": "Altocumulus"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 146,
+    "question": "Thick layered clouds producing widespread steady precipitation are:",
+    "options": {
+      "A": "Cirrus",
+      "B": "Cumulus humilis",
+      "C": "Nimbostratus",
+      "D": "Cirrostratus"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 147,
+    "question": "Thunderstorms, lightning and hail are most strongly associated with:",
+    "options": {
+      "A": "Cumulonimbus",
+      "B": "Cirrus",
+      "C": "Stratus",
+      "D": "Cirrostratus"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 148,
+    "question": "Cumulonimbus commonly develops from:",
+    "options": {
+      "A": "Cirrostratus",
+      "B": "Fog only",
+      "C": "Cirrocumulus",
+      "D": "Cumulus congestus"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 149,
+    "question": "An anvil-shaped cloud top often forms when a thunderstorm reaches the:",
+    "options": {
+      "A": "Ocean surface",
+      "B": "Stable air near the tropopause",
+      "C": "Groundwater table",
+      "D": "Exosphere"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 150,
+    "question": "Which pair is correctly matched?",
+    "options": {
+      "A": "Isohyet—temperature",
+      "B": "Isotherm—rainfall",
+      "C": "Isohel—sunshine duration",
+      "D": "Isohaline—pressure"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 151,
+    "question": "In Köppen classification, “A” climates are:",
+    "options": {
+      "A": "Tropical climates",
+      "B": "Dry climates",
+      "C": "Polar climates",
+      "D": "Continental climates"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 152,
+    "question": "Köppen “Af” represents:",
+    "options": {
+      "A": "Tropical savanna",
+      "B": "Hot desert",
+      "C": "Mediterranean climate",
+      "D": "Tropical rainforest climate"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 153,
+    "question": "Köppen “Aw” generally indicates:",
+    "options": {
+      "A": "Rainfall throughout the year",
+      "B": "Tropical climate with a dry winter",
+      "C": "Polar climate",
+      "D": "Cool maritime climate"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 154,
+    "question": "Köppen “Am” represents:",
+    "options": {
+      "A": "Tundra",
+      "B": "Desert",
+      "C": "Tropical monsoon climate",
+      "D": "Ice cap"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 155,
+    "question": "Köppen “BW” denotes:",
+    "options": {
+      "A": "Desert climate",
+      "B": "Steppe climate",
+      "C": "Tundra climate",
+      "D": "Marine west coast climate"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 156,
+    "question": "Köppen “BS” denotes:",
+    "options": {
+      "A": "Rainforest",
+      "B": "Ice cap",
+      "C": "Mediterranean climate",
+      "D": "Steppe climate"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 157,
+    "question": "In Köppen dry-climate notation, “h” indicates:",
+    "options": {
+      "A": "High altitude",
+      "B": "Hot conditions",
+      "C": "Heavy rainfall",
+      "D": "Humid winters"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 158,
+    "question": "The westernmost part of Rajasthan is predominantly associated with:",
+    "options": {
+      "A": "Af",
+      "B": "ET",
+      "C": "BWh",
+      "D": "Cfb"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 159,
+    "question": "Mediterranean climates typically experience:",
+    "options": {
+      "A": "Dry summers and wet winters",
+      "B": "Wet summers and dry winters",
+      "C": "Rain all year equally",
+      "D": "Permanent freezing"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 160,
+    "question": "Which region has a Mediterranean-type climate?",
+    "options": {
+      "A": "Congo Basin",
+      "B": "Amazon Basin",
+      "C": "Northern Siberia",
+      "D": "Central Chile"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 161,
+    "question": "Marine west coast climates typically have:",
+    "options": {
+      "A": "Extreme summer heat and no rain",
+      "B": "Mild temperatures and year-round precipitation",
+      "C": "Permanent snow",
+      "D": "Monsoon rainfall only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 162,
+    "question": "Humid subtropical climates commonly occur on the:",
+    "options": {
+      "A": "Western margins of tropical continents only",
+      "B": "Polar coasts",
+      "C": "Eastern margins of continents in the subtropics",
+      "D": "Equator only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 163,
+    "question": "In an ice-cap climate, the mean temperature of the warmest month is:",
+    "options": {
+      "A": "Below 0°C",
+      "B": "Between 10°C and 20°C",
+      "C": "Above 25°C",
+      "D": "Above 35°C"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 164,
+    "question": "Köppen “ET” represents:",
+    "options": {
+      "A": "Tropical monsoon",
+      "B": "Hot steppe",
+      "C": "Humid continental",
+      "D": "Tundra"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 165,
+    "question": "Tundra vegetation is dominated by:",
+    "options": {
+      "A": "Tall hardwood trees",
+      "B": "Mosses, lichens and low shrubs",
+      "C": "Dense tropical vines",
+      "D": "Mangroves"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 166,
+    "question": "Taiga is predominantly a biome of:",
+    "options": {
+      "A": "Tropical grasslands",
+      "B": "Mediterranean shrubs",
+      "C": "Boreal coniferous forests",
+      "D": "Equatorial rainforest"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 167,
+    "question": "Savanna vegetation is characterised by:",
+    "options": {
+      "A": "Grassland with scattered trees",
+      "B": "Permanent ice",
+      "C": "Dense conifers",
+      "D": "Saltwater mangroves"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 168,
+    "question": "Temperate deciduous trees usually shed their leaves in response to:",
+    "options": {
+      "A": "Summer monsoon onset",
+      "B": "Daily tides",
+      "C": "Equatorial heat",
+      "D": "The cold season"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 169,
+    "question": "Which tree is characteristic of temperate deciduous forests?",
+    "options": {
+      "A": "Coconut",
+      "B": "Beech",
+      "C": "Rubber",
+      "D": "Ebony"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 170,
+    "question": "Tropical rainforests generally have:",
+    "options": {
+      "A": "Low biodiversity",
+      "B": "A long winter dormancy",
+      "C": "Dense evergreen vegetation",
+      "D": "No canopy layering"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 171,
+    "question": "The main cause of subtropical desert belts is:",
+    "options": {
+      "A": "Descending dry air in subtropical highs",
+      "B": "Permanent equatorial uplift",
+      "C": "Warm currents alone",
+      "D": "Excessive snowfall"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 172,
+    "question": "Coastal deserts may be reinforced by:",
+    "options": {
+      "A": "Warm onshore currents",
+      "B": "Intense convection",
+      "C": "Frequent warm fronts",
+      "D": "Cold ocean currents"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 173,
+    "question": "The Atacama Desert is influenced by the cold:",
+    "options": {
+      "A": "Brazil Current",
+      "B": "Humboldt Current",
+      "C": "Kuroshio Current",
+      "D": "Agulhas Current"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 174,
+    "question": "Rain caused by air forced to rise over mountains is:",
+    "options": {
+      "A": "Frontal rainfall",
+      "B": "Convectional rainfall",
+      "C": "Orographic rainfall",
+      "D": "Cyclonic storm surge"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 175,
+    "question": "A rain-shadow region lies mainly on the:",
+    "options": {
+      "A": "Leeward side of a mountain",
+      "B": "Windward side",
+      "C": "Ocean floor",
+      "D": "Equatorial low-pressure axis"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 176,
+    "question": "Convectional rainfall is associated with:",
+    "options": {
+      "A": "Sinking cold air",
+      "B": "Offshore sediment transport",
+      "C": "Groundwater flow",
+      "D": "Strong surface heating and uplift"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 177,
+    "question": "Frontal rainfall occurs where:",
+    "options": {
+      "A": "Two rivers meet",
+      "B": "Different air masses meet",
+      "C": "Sand dunes migrate",
+      "D": "Ocean salinity rises"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 178,
+    "question": "Tropical cyclones derive much of their energy from:",
+    "options": {
+      "A": "Earth’s magnetic field",
+      "B": "Lunar attraction",
+      "C": "Latent heat released during condensation",
+      "D": "Continental snowfall"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 179,
+    "question": "Tropical cyclones rarely originate exactly at the Equator because:",
+    "options": {
+      "A": "Coriolis force is negligible",
+      "B": "Ocean water is too cold everywhere",
+      "C": "Air contains no moisture",
+      "D": "Pressure cannot vary"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 180,
+    "question": "The eye of a mature tropical cyclone generally has:",
+    "options": {
+      "A": "Maximum rainfall",
+      "B": "Strongest updrafts",
+      "C": "Highest surface pressure",
+      "D": "Relatively calm, subsiding air"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 181,
+    "question": "The strongest winds in a tropical cyclone are usually found in the:",
+    "options": {
+      "A": "Eye centre",
+      "B": "Eyewall",
+      "C": "Outer clear region",
+      "D": "Upper stratosphere"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 182,
+    "question": "Northern Hemisphere tropical cyclones rotate:",
+    "options": {
+      "A": "Clockwise",
+      "B": "Only westward",
+      "C": "Anticlockwise",
+      "D": "Without a consistent direction"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 183,
+    "question": "Extratropical cyclones are commonly associated with:",
+    "options": {
+      "A": "Fronts",
+      "B": "Coral reefs",
+      "C": "Equatorial calms only",
+      "D": "Volcanic vents"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 184,
+    "question": "A storm surge is primarily an abnormal rise in sea level caused by:",
+    "options": {
+      "A": "River evaporation",
+      "B": "Daily sunlight",
+      "C": "Glacier abrasion",
+      "D": "Cyclonic winds and low pressure"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 185,
+    "question": "Indian monsoon circulation is closely linked to seasonal movement of the:",
+    "options": {
+      "A": "Mid-Atlantic Ridge",
+      "B": "ITCZ",
+      "C": "Antarctic Circle",
+      "D": "International Date Line"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 186,
+    "question": "Southeast trade winds crossing the Equator towards India become:",
+    "options": {
+      "A": "Northeasterlies",
+      "B": "Northwesterlies",
+      "C": "Southwesterlies",
+      "D": "Polar easterlies"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 187,
+    "question": "The southwest monsoon normally reaches Kerala around:",
+    "options": {
+      "A": "Early June",
+      "B": "Early January",
+      "C": "Early March",
+      "D": "Late December"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 188,
+    "question": "The western slopes of the Western Ghats receive heavy rainfall mainly through:",
+    "options": {
+      "A": "Frontal uplift",
+      "B": "Polar convection",
+      "C": "Winter westerlies",
+      "D": "Orographic uplift"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 189,
+    "question": "Pune receives less southwest monsoon rainfall than Mumbai mainly because Pune lies:",
+    "options": {
+      "A": "Farther north",
+      "B": "In a rain-shadow region",
+      "C": "On a cold-current coast",
+      "D": "Above the snowline"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 190,
+    "question": "Tamil Nadu receives a substantial share of its rainfall during:",
+    "options": {
+      "A": "March–April",
+      "B": "January–February",
+      "C": "October–December",
+      "D": "May only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 191,
+    "question": "Winter rainfall in northwestern India is mainly associated with:",
+    "options": {
+      "A": "Western disturbances",
+      "B": "Northeast trade winds alone",
+      "C": "Tropical easterly jet alone",
+      "D": "Local sea breezes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 192,
+    "question": "Western disturbances are especially beneficial for:",
+    "options": {
+      "A": "Jute retting",
+      "B": "Rubber tapping",
+      "C": "Kharif rice transplantation",
+      "D": "Rabi crops"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 193,
+    "question": "The hot, dry summer wind of northern India is called:",
+    "options": {
+      "A": "Bora",
+      "B": "Loo",
+      "C": "Mistral",
+      "D": "Chinook"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 194,
+    "question": "Kalbaisakhi refers to:",
+    "options": {
+      "A": "Winter snowfall",
+      "B": "Northeast monsoon withdrawal",
+      "C": "Premonsoon thunderstorms in eastern India",
+      "D": "A cold ocean current"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 195,
+    "question": "“Mango showers” are premonsoon showers associated mainly with:",
+    "options": {
+      "A": "Southern India",
+      "B": "Ladakh",
+      "C": "Western Rajasthan",
+      "D": "Punjab plains"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 196,
+    "question": "During a monsoon break, the monsoon trough often shifts towards the:",
+    "options": {
+      "A": "Southern Indian Ocean",
+      "B": "Equator",
+      "C": "Arabian Peninsula",
+      "D": "Himalayan foothills"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 197,
+    "question": "El Niño involves abnormal warming of the:",
+    "options": {
+      "A": "North Atlantic",
+      "B": "Central and eastern equatorial Pacific",
+      "C": "Arctic Ocean",
+      "D": "Southern Ocean"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 198,
+    "question": "El Niño is frequently, though not invariably, associated with:",
+    "options": {
+      "A": "Stronger Indian monsoon rainfall everywhere",
+      "B": "Permanent monsoon failure",
+      "C": "Weaker Indian summer monsoon rainfall",
+      "D": "No atmospheric changes"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 199,
+    "question": "A positive Indian Ocean Dipole means the western tropical Indian Ocean is relatively:",
+    "options": {
+      "A": "Warmer than the eastern part",
+      "B": "Colder than the eastern part",
+      "C": "Salt-free",
+      "D": "Ice-covered"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 200,
+    "question": "The Southern Oscillation concerns changes in:",
+    "options": {
+      "A": "Ocean-floor spreading",
+      "B": "Earth’s axial tilt",
+      "C": "River discharge only",
+      "D": "Tropical Pacific atmospheric pressure patterns"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 201,
+    "question": "Average open-ocean salinity is approximately:",
+    "options": {
+      "A": "3.5‰",
+      "B": "35‰",
+      "C": "350‰",
+      "D": "0.35‰"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 202,
+    "question": "The most abundant dissolved ion in seawater is:",
+    "options": {
+      "A": "Calcium",
+      "B": "Magnesium",
+      "C": "Chloride",
+      "D": "Potassium"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 203,
+    "question": "Which process generally increases surface ocean salinity?",
+    "options": {
+      "A": "Evaporation",
+      "B": "River inflow",
+      "C": "Heavy precipitation",
+      "D": "Melting sea ice"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 204,
+    "question": "Which generally reduces surface ocean salinity?",
+    "options": {
+      "A": "Evaporation",
+      "B": "Sea-ice formation",
+      "C": "Dry offshore winds",
+      "D": "River discharge"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 205,
+    "question": "Open-ocean surface salinity is often high in the subtropics because:",
+    "options": {
+      "A": "Rivers are most numerous there",
+      "B": "Evaporation commonly exceeds precipitation",
+      "C": "Sea ice melts rapidly",
+      "D": "Rainfall is continuous"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 206,
+    "question": "Which sea has relatively high salinity because of strong evaporation and limited freshwater input?",
+    "options": {
+      "A": "Baltic Sea",
+      "B": "Sea of Azov",
+      "C": "Red Sea",
+      "D": "Beaufort Sea"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 207,
+    "question": "Isohalines connect points of equal:",
+    "options": {
+      "A": "Salinity",
+      "B": "Temperature",
+      "C": "Ocean depth",
+      "D": "Pressure"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 208,
+    "question": "A rapid vertical change in ocean temperature occurs in the:",
+    "options": {
+      "A": "Halocline",
+      "B": "Pycnocline only",
+      "C": "Abyssal plain",
+      "D": "Thermocline"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 209,
+    "question": "A layer of rapid vertical salinity change is a:",
+    "options": {
+      "A": "Thermocline",
+      "B": "Halocline",
+      "C": "Tropopause",
+      "D": "Lithocline"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 210,
+    "question": "Ocean-water density generally increases with:",
+    "options": {
+      "A": "Higher temperature and lower salinity",
+      "B": "Lower salinity only",
+      "C": "Lower temperature and higher salinity",
+      "D": "Lower pressure only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 211,
+    "question": "The shallow submerged extension of a continent is the:",
+    "options": {
+      "A": "Continental shelf",
+      "B": "Ocean trench",
+      "C": "Mid-ocean ridge",
+      "D": "Abyssal hill"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 212,
+    "question": "The steep zone between the shelf and deep ocean is the:",
+    "options": {
+      "A": "Beach",
+      "B": "Continental rise",
+      "C": "Lagoon",
+      "D": "Continental slope"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 213,
+    "question": "Broad, relatively flat areas of the deep ocean floor are:",
+    "options": {
+      "A": "Reefs",
+      "B": "Abyssal plains",
+      "C": "Deltas",
+      "D": "Continental cliffs"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 214,
+    "question": "A flat-topped submerged volcanic mountain is a:",
+    "options": {
+      "A": "Trench",
+      "B": "Canyon",
+      "C": "Guyot",
+      "D": "Spit"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 215,
+    "question": "The deepest known oceanic trench is the:",
+    "options": {
+      "A": "Mariana Trench",
+      "B": "Peru–Chile Trench",
+      "C": "Java Trench",
+      "D": "Puerto Rico Trench"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 216,
+    "question": "The Mid-Atlantic Ridge is associated with:",
+    "options": {
+      "A": "Continental collision",
+      "B": "Transform motion alone",
+      "C": "River deposition",
+      "D": "Divergent plate movement"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 217,
+    "question": "Amsterdam–St. Paul Plateau lies in the:",
+    "options": {
+      "A": "Arctic Ocean",
+      "B": "Southern Indian Ocean",
+      "C": "North Atlantic",
+      "D": "Eastern Pacific"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 218,
+    "question": "Surface ocean currents are driven primarily by:",
+    "options": {
+      "A": "Earthquakes",
+      "B": "Groundwater",
+      "C": "Prevailing winds",
+      "D": "River gradients"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 219,
+    "question": "Thermohaline circulation is driven by differences in:",
+    "options": {
+      "A": "Temperature and salinity",
+      "B": "Longitude and latitude alone",
+      "C": "Tidal range only",
+      "D": "Wind speed only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 220,
+    "question": "Northern Hemisphere subtropical ocean gyres generally rotate:",
+    "options": {
+      "A": "Anticlockwise",
+      "B": "Randomly",
+      "C": "Vertically",
+      "D": "Clockwise"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 221,
+    "question": "The Gulf Stream is a:",
+    "options": {
+      "A": "Cold eastern-boundary current",
+      "B": "Warm western-boundary current",
+      "C": "Polar current",
+      "D": "Deep Antarctic current"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 222,
+    "question": "The cold current along southwestern Africa is the:",
+    "options": {
+      "A": "Brazil Current",
+      "B": "Agulhas Current",
+      "C": "Benguela Current",
+      "D": "Mozambique Current"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 223,
+    "question": "The cold current along western South America is the:",
+    "options": {
+      "A": "Humboldt Current",
+      "B": "Brazil Current",
+      "C": "Kuroshio Current",
+      "D": "East Australian Current"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 224,
+    "question": "The Kuroshio is a warm current in the:",
+    "options": {
+      "A": "South Atlantic",
+      "B": "Southern Ocean",
+      "C": "Arctic Ocean",
+      "D": "North Pacific"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 225,
+    "question": "The Oyashio Current carries:",
+    "options": {
+      "A": "Warm tropical water",
+      "B": "Cold subarctic water",
+      "C": "Mediterranean water",
+      "D": "Red Sea water"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 226,
+    "question": "Rich fisheries near Newfoundland are associated with the meeting of the:",
+    "options": {
+      "A": "Canary and Benguela currents",
+      "B": "Kuroshio and Oyashio currents",
+      "C": "Gulf Stream and Labrador Current",
+      "D": "Brazil and Agulhas currents"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 227,
+    "question": "The North Atlantic Drift helps moderate the climate of:",
+    "options": {
+      "A": "Western Europe",
+      "B": "Central Antarctica",
+      "C": "Western Australia",
+      "D": "Eastern Siberia"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 228,
+    "question": "The Antarctic Circumpolar Current flows predominantly:",
+    "options": {
+      "A": "East to west",
+      "B": "Towards the Equator",
+      "C": "North to south",
+      "D": "West to east"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 229,
+    "question": "Northern Indian Ocean currents differ from many other ocean currents because they:",
+    "options": {
+      "A": "Never change",
+      "B": "Reverse seasonally under monsoon influence",
+      "C": "Carry freshwater only",
+      "D": "Flow beneath the crust"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 230,
+    "question": "Coastal upwelling brings surfaceward water that is generally:",
+    "options": {
+      "A": "Warm and nutrient-poor",
+      "B": "Fresh and sediment-free",
+      "C": "Cold and nutrient-rich",
+      "D": "Hot and oxygen-free"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 231,
+    "question": "El Niño commonly reduces fisheries productivity off Peru by:",
+    "options": {
+      "A": "Suppressing nutrient-rich upwelling",
+      "B": "Increasing coastal glaciers",
+      "C": "Eliminating ocean salinity",
+      "D": "Stopping all tides"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 232,
+    "question": "Ocean tides are caused mainly by:",
+    "options": {
+      "A": "Winds alone",
+      "B": "River floods",
+      "C": "Earth’s magnetic field",
+      "D": "Lunar and solar gravitational forces"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 233,
+    "question": "Spring tides occur near:",
+    "options": {
+      "A": "First-quarter Moon only",
+      "B": "New and full Moon",
+      "C": "Last-quarter Moon only",
+      "D": "Aphelion only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 234,
+    "question": "Neap tides occur when the Sun and Moon act approximately at:",
+    "options": {
+      "A": "The same longitude",
+      "B": "Opposite sides of Earth only",
+      "C": "Right angles relative to Earth",
+      "D": "The same distance from Earth"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 235,
+    "question": "A semidiurnal tidal regime usually has:",
+    "options": {
+      "A": "Two high and two low tides per lunar day",
+      "B": "One high tide monthly",
+      "C": "No low tide",
+      "D": "Four high tides daily"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 236,
+    "question": "Reef-building tropical corals generally require:",
+    "options": {
+      "A": "Deep dark water",
+      "B": "Very muddy freshwater",
+      "C": "Permanent ice",
+      "D": "Warm, shallow, well-lit seawater"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 237,
+    "question": "Coral bleaching primarily involves loss of:",
+    "options": {
+      "A": "All calcium from seawater",
+      "B": "Symbiotic algae or their pigments",
+      "C": "Ocean tides",
+      "D": "Coral skeletons instantaneously"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 238,
+    "question": "A coral reef directly adjoining a coast is a:",
+    "options": {
+      "A": "Barrier reef",
+      "B": "Atoll",
+      "C": "Fringing reef",
+      "D": "Guyot"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 239,
+    "question": "A ring-shaped coral reef enclosing a lagoon is an:",
+    "options": {
+      "A": "Atoll",
+      "B": "Estuary",
+      "C": "Spit",
+      "D": "Fjord"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 240,
+    "question": "The Great Barrier Reef lies off:",
+    "options": {
+      "A": "Western South America",
+      "B": "Western Africa",
+      "C": "Southern Europe",
+      "D": "Northeastern Australia"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 241,
+    "question": "Lakshadweep islands are predominantly:",
+    "options": {
+      "A": "River islands",
+      "B": "Coral islands",
+      "C": "Continental volcanic plateaus",
+      "D": "Glacial islands"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 242,
+    "question": "India’s active volcano is located on:",
+    "options": {
+      "A": "Minicoy",
+      "B": "Majuli",
+      "C": "Barren Island",
+      "D": "Diu"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 243,
+    "question": "The Ten Degree Channel separates the:",
+    "options": {
+      "A": "Andaman and Nicobar groups",
+      "B": "Lakshadweep and Maldives",
+      "C": "India and Sri Lanka",
+      "D": "Minicoy and other Lakshadweep islands"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 244,
+    "question": "The Nine Degree Channel separates Minicoy from:",
+    "options": {
+      "A": "Sri Lanka",
+      "B": "Sumatra",
+      "C": "Great Nicobar",
+      "D": "The main Lakshadweep group"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 245,
+    "question": "The Eight Degree Channel lies between:",
+    "options": {
+      "A": "Andaman and Nicobar",
+      "B": "Minicoy and Maldives",
+      "C": "India and Sri Lanka",
+      "D": "Java and Sumatra"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 246,
+    "question": "Saddle Peak is located in:",
+    "options": {
+      "A": "Great Nicobar",
+      "B": "Little Andaman",
+      "C": "North Andaman",
+      "D": "Minicoy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 247,
+    "question": "Mount Thuillier is located in:",
+    "options": {
+      "A": "Great Nicobar",
+      "B": "North Andaman",
+      "C": "Lakshadweep",
+      "D": "Sri Lanka"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 248,
+    "question": "Bermuda lies in the:",
+    "options": {
+      "A": "Caribbean Sea",
+      "B": "Gulf of Mexico",
+      "C": "Mediterranean Sea",
+      "D": "North Atlantic Ocean"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 249,
+    "question": "Easter Island is politically a part of:",
+    "options": {
+      "A": "Peru",
+      "B": "Chile",
+      "C": "Ecuador",
+      "D": "New Zealand"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 250,
+    "question": "The Galápagos Islands belong to:",
+    "options": {
+      "A": "Colombia",
+      "B": "Chile",
+      "C": "Ecuador",
+      "D": "Mexico"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 251,
+    "question": "The correct north-to-south sequence is:",
+    "options": {
+      "A": "Kunlun–Karakoram–Ladakh–Zaskar",
+      "B": "Karakoram–Kunlun–Zaskar–Ladakh",
+      "C": "Ladakh–Karakoram–Kunlun–Zaskar",
+      "D": "Zaskar–Ladakh–Karakoram–Kunlun"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 252,
+    "question": "The outermost Himalayan range is the:",
+    "options": {
+      "A": "Himadri",
+      "B": "Himachal",
+      "C": "Karakoram",
+      "D": "Shiwalik"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 253,
+    "question": "Duns are longitudinal valleys located mainly between the:",
+    "options": {
+      "A": "Karakoram and Ladakh",
+      "B": "Lesser Himalaya and Shiwalik",
+      "C": "Vindhya and Satpura",
+      "D": "Aravalli and Vindhya"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 254,
+    "question": "Karewas of Kashmir are mainly:",
+    "options": {
+      "A": "Marine coral deposits",
+      "B": "Wind-eroded basalt",
+      "C": "Lacustrine deposits",
+      "D": "Active lava flows"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 255,
+    "question": "Karewas are especially associated with cultivation of:",
+    "options": {
+      "A": "Saffron",
+      "B": "Rubber",
+      "C": "Jute",
+      "D": "Coconut"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 256,
+    "question": "Siachen Glacier lies in the:",
+    "options": {
+      "A": "Pir Panjal",
+      "B": "Kumaon Himalaya",
+      "C": "Eastern Ghats",
+      "D": "Karakoram"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 257,
+    "question": "Zemu Glacier is located in:",
+    "options": {
+      "A": "Himachal Pradesh",
+      "B": "Sikkim",
+      "C": "Uttarakhand",
+      "D": "Arunachal Pradesh"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 258,
+    "question": "Gangotri Glacier is associated with the source of the:",
+    "options": {
+      "A": "Yamuna",
+      "B": "Sutlej",
+      "C": "Bhagirathi",
+      "D": "Beas"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 259,
+    "question": "Zoji La connects the Kashmir Valley with:",
+    "options": {
+      "A": "Ladakh",
+      "B": "Nepal",
+      "C": "Bhutan",
+      "D": "Tibet through Sikkim"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 260,
+    "question": "Shipki La is located in:",
+    "options": {
+      "A": "Sikkim",
+      "B": "Uttarakhand",
+      "C": "Arunachal Pradesh",
+      "D": "Himachal Pradesh"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 261,
+    "question": "Nathu La is located in:",
+    "options": {
+      "A": "Ladakh",
+      "B": "Sikkim",
+      "C": "Himachal Pradesh",
+      "D": "Uttarakhand"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 262,
+    "question": "Lipulekh Pass is located in:",
+    "options": {
+      "A": "Meghalaya",
+      "B": "Nagaland",
+      "C": "Uttarakhand",
+      "D": "Rajasthan"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 263,
+    "question": "The highest peak of peninsular India is:",
+    "options": {
+      "A": "Anamudi",
+      "B": "Doddabetta",
+      "C": "Guru Shikhar",
+      "D": "Mahendragiri"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 264,
+    "question": "The Palghat Gap lies between the:",
+    "options": {
+      "A": "Aravalli and Vindhya",
+      "B": "Satpura and Vindhya",
+      "C": "Khasi and Garo hills",
+      "D": "Nilgiri and Anaimalai hills"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 265,
+    "question": "Guru Shikhar is the highest peak of the:",
+    "options": {
+      "A": "Satpura",
+      "B": "Aravalli",
+      "C": "Vindhya",
+      "D": "Eastern Ghats"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 266,
+    "question": "The Narmada flows mainly between the:",
+    "options": {
+      "A": "Aravalli and Vindhya",
+      "B": "Western and Eastern Ghats",
+      "C": "Vindhya and Satpura",
+      "D": "Shiwalik and Himadri"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 267,
+    "question": "Indore is situated on the:",
+    "options": {
+      "A": "Malwa Plateau",
+      "B": "Chota Nagpur Plateau",
+      "C": "Meghalaya Plateau",
+      "D": "Deccan’s Telangana Plateau"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 268,
+    "question": "The Bhabar belt is characterised by:",
+    "options": {
+      "A": "Marshes and fine clay",
+      "B": "Coastal lagoons",
+      "C": "Black cotton soil",
+      "D": "Pebbly deposits where streams disappear"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 269,
+    "question": "Streams that disappear in Bhabar commonly re-emerge in the:",
+    "options": {
+      "A": "Bhangar",
+      "B": "Terai",
+      "C": "Thar",
+      "D": "Deccan"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 270,
+    "question": "Khadar refers to:",
+    "options": {
+      "A": "Old alluvium",
+      "B": "Lava-derived soil",
+      "C": "Newer floodplain alluvium",
+      "D": "Desert pavement"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 271,
+    "question": "The Bhagirathi and Alaknanda meet at:",
+    "options": {
+      "A": "Devprayag",
+      "B": "Rudraprayag",
+      "C": "Karnaprayag",
+      "D": "Vishnuprayag"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 272,
+    "question": "The Yamuna joins the Ganga at:",
+    "options": {
+      "A": "Haridwar",
+      "B": "Kanpur",
+      "C": "Patna",
+      "D": "Prayagraj"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 273,
+    "question": "Which is a tributary of the Yamuna?",
+    "options": {
+      "A": "Gandak",
+      "B": "Chambal",
+      "C": "Kosi",
+      "D": "Teesta"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 274,
+    "question": "Which is a right-bank tributary of the Ganga?",
+    "options": {
+      "A": "Ghaghara",
+      "B": "Gandak",
+      "C": "Son",
+      "D": "Kosi"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 275,
+    "question": "Which river is known for frequent course changes in the Bihar plains?",
+    "options": {
+      "A": "Kosi",
+      "B": "Sabarmati",
+      "C": "Pennar",
+      "D": "Periyar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 276,
+    "question": "In Tibet, the Brahmaputra is known as the:",
+    "options": {
+      "A": "Irrawaddy",
+      "B": "Salween",
+      "C": "Mekong",
+      "D": "Yarlung Tsangpo"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 277,
+    "question": "Which river is a tributary of the Brahmaputra?",
+    "options": {
+      "A": "Betwa",
+      "B": "Subansiri",
+      "C": "Bhima",
+      "D": "Amaravati"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 278,
+    "question": "The Barak River originates in the hills of:",
+    "options": {
+      "A": "Meghalaya",
+      "B": "Tripura",
+      "C": "Manipur",
+      "D": "Sikkim"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 279,
+    "question": "Which river generally loses itself in the arid region rather than reaching the sea?",
+    "options": {
+      "A": "Ghaggar",
+      "B": "Godavari",
+      "C": "Mahanadi",
+      "D": "Kaveri"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 280,
+    "question": "The Indus enters India in:",
+    "options": {
+      "A": "Punjab",
+      "B": "Himachal Pradesh",
+      "C": "Uttarakhand",
+      "D": "Ladakh"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 281,
+    "question": "The Chenab is formed by the joining of the:",
+    "options": {
+      "A": "Beas and Ravi",
+      "B": "Chandra and Bhaga",
+      "C": "Jhelum and Kishanganga",
+      "D": "Shyok and Nubra"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 282,
+    "question": "The Jhelum originates at:",
+    "options": {
+      "A": "Amarkantak",
+      "B": "Talakaveri",
+      "C": "Verinag",
+      "D": "Trimbakeshwar"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 283,
+    "question": "Salal and Baglihar projects are on the:",
+    "options": {
+      "A": "Chenab",
+      "B": "Ravi",
+      "C": "Beas",
+      "D": "Sutlej"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 284,
+    "question": "Bhakra Dam is built across the:",
+    "options": {
+      "A": "Jhelum",
+      "B": "Chenab",
+      "C": "Ravi",
+      "D": "Sutlej"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 285,
+    "question": "Tehri Dam is located on the:",
+    "options": {
+      "A": "Alaknanda",
+      "B": "Bhagirathi",
+      "C": "Yamuna",
+      "D": "Ramganga"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 286,
+    "question": "Hirakud Dam is built across the:",
+    "options": {
+      "A": "Godavari",
+      "B": "Krishna",
+      "C": "Mahanadi",
+      "D": "Narmada"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 287,
+    "question": "The Godavari originates near:",
+    "options": {
+      "A": "Trimbakeshwar",
+      "B": "Mahabaleshwar",
+      "C": "Talakaveri",
+      "D": "Amarkantak"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 288,
+    "question": "Which is a tributary of the Godavari?",
+    "options": {
+      "A": "Kabini",
+      "B": "Bhima",
+      "C": "Chambal",
+      "D": "Indravati"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 289,
+    "question": "The Bhima is a tributary of the:",
+    "options": {
+      "A": "Godavari",
+      "B": "Krishna",
+      "C": "Kaveri",
+      "D": "Mahanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 290,
+    "question": "Kabini is a tributary of the:",
+    "options": {
+      "A": "Krishna",
+      "B": "Godavari",
+      "C": "Kaveri",
+      "D": "Pennar"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 291,
+    "question": "The Kaveri originates at:",
+    "options": {
+      "A": "Talakaveri",
+      "B": "Amarkantak",
+      "C": "Trimbakeshwar",
+      "D": "Sihawa"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 292,
+    "question": "Which river flows westward into the Arabian Sea?",
+    "options": {
+      "A": "Mahanadi",
+      "B": "Godavari",
+      "C": "Krishna",
+      "D": "Tapi"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 293,
+    "question": "Loktak Lake is located in:",
+    "options": {
+      "A": "Mizoram",
+      "B": "Manipur",
+      "C": "Meghalaya",
+      "D": "Tripura"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 294,
+    "question": "Umiam, also known as Barapani, is located in:",
+    "options": {
+      "A": "Assam",
+      "B": "Sikkim",
+      "C": "Meghalaya",
+      "D": "Nagaland"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 295,
+    "question": "Kolleru Lake lies between the deltas of the:",
+    "options": {
+      "A": "Krishna and Godavari",
+      "B": "Ganga and Brahmaputra",
+      "C": "Mahanadi and Brahmani",
+      "D": "Kaveri and Pennar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 296,
+    "question": "Pulicat Lake is shared by:",
+    "options": {
+      "A": "Kerala and Karnataka",
+      "B": "Odisha and Andhra Pradesh",
+      "C": "Goa and Maharashtra",
+      "D": "Andhra Pradesh and Tamil Nadu"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 297,
+    "question": "Vembanad Lake is located in:",
+    "options": {
+      "A": "Tamil Nadu",
+      "B": "Kerala",
+      "C": "Karnataka",
+      "D": "Odisha"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 298,
+    "question": "Tsomgo Lake is located in:",
+    "options": {
+      "A": "Ladakh",
+      "B": "Uttarakhand",
+      "C": "Sikkim",
+      "D": "Himachal Pradesh"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 299,
+    "question": "Wular Lake is associated with the river:",
+    "options": {
+      "A": "Jhelum",
+      "B": "Chenab",
+      "C": "Ravi",
+      "D": "Beas"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 300,
+    "question": "Dudhsagar Falls are located on the:",
+    "options": {
+      "A": "Sharavathi",
+      "B": "Narmada",
+      "C": "Kaveri",
+      "D": "Mandovi"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 301,
+    "question": "Humus is predominantly:",
+    "options": {
+      "A": "Unweathered bedrock",
+      "B": "Dark, decomposed organic matter",
+      "C": "Pure silica",
+      "D": "Dissolved sodium chloride"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 302,
+    "question": "Humus improves soil fertility partly because it:",
+    "options": {
+      "A": "Eliminates all soil organisms",
+      "B": "Prevents all infiltration",
+      "C": "Retains nutrients and moisture",
+      "D": "Converts clay into rock"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 303,
+    "question": "Soil formation is influenced by:",
+    "options": {
+      "A": "Parent material, climate, organisms, relief and time",
+      "B": "Longitude alone",
+      "C": "Tides alone",
+      "D": "Population alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 304,
+    "question": "The soil horizon commonly enriched by materials leached from above is the:",
+    "options": {
+      "A": "O horizon",
+      "B": "A horizon",
+      "C": "C horizon",
+      "D": "B horizon"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 305,
+    "question": "Removal of soluble substances from upper soil layers by water is:",
+    "options": {
+      "A": "Calcification",
+      "B": "Leaching",
+      "C": "Deflation",
+      "D": "Plucking"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 306,
+    "question": "Entisols are soils with:",
+    "options": {
+      "A": "Very thick peat layers",
+      "B": "Extreme tropical weathering",
+      "C": "Little or no horizon development",
+      "D": "Permanent permafrost necessarily"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 307,
+    "question": "Inceptisols are characterised by:",
+    "options": {
+      "A": "Weakly developed diagnostic horizons",
+      "B": "Pure volcanic glass only",
+      "C": "Very high salt content necessarily",
+      "D": "Absence of minerals"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 308,
+    "question": "Histosols are especially rich in:",
+    "options": {
+      "A": "Calcium carbonate",
+      "B": "Quartz",
+      "C": "Iron ore",
+      "D": "Organic matter"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 309,
+    "question": "Oxisols are typically:",
+    "options": {
+      "A": "Newly deposited desert sands",
+      "B": "Highly weathered tropical soils",
+      "C": "Young alluvial soils",
+      "D": "Frozen tundra soils"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 310,
+    "question": "Vertisols are distinguished by:",
+    "options": {
+      "A": "Permanent ice",
+      "B": "High peat content",
+      "C": "Shrink–swell clay behaviour",
+      "D": "Pure sand texture"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 311,
+    "question": "Indian black soils are especially suitable for:",
+    "options": {
+      "A": "Cotton",
+      "B": "Jute",
+      "C": "Coconut",
+      "D": "Tea"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 312,
+    "question": "Black soils develop deep cracks during dry periods mainly because of:",
+    "options": {
+      "A": "Excessive gravel",
+      "B": "Salt erosion",
+      "C": "Low clay content",
+      "D": "Shrinking clay minerals"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 313,
+    "question": "Black soils generally have:",
+    "options": {
+      "A": "Very low moisture retention",
+      "B": "High moisture-retention capacity",
+      "C": "No mineral nutrients",
+      "D": "Only marine origins"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 314,
+    "question": "The red colour of many Indian soils is mainly due to:",
+    "options": {
+      "A": "Humus",
+      "B": "Magnesium salts",
+      "C": "Iron oxides",
+      "D": "Calcium sulphate"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 315,
+    "question": "Laterite soils develop under conditions of:",
+    "options": {
+      "A": "High temperature and heavy seasonal rainfall",
+      "B": "Permanent ice",
+      "C": "Very low rainfall only",
+      "D": "No weathering"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 316,
+    "question": "Laterite soils commonly require manuring because they are:",
+    "options": {
+      "A": "Permanently waterlogged everywhere",
+      "B": "Rich in nitrogen naturally",
+      "C": "Made entirely of gravel",
+      "D": "Strongly leached"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 317,
+    "question": "Saline soils contain excessive amounts of soluble:",
+    "options": {
+      "A": "Organic acids",
+      "B": "Salts",
+      "C": "Humus",
+      "D": "Silica crystals only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 318,
+    "question": "Salinisation in irrigated drylands can be encouraged by:",
+    "options": {
+      "A": "Good drainage alone",
+      "B": "Low evaporation alone",
+      "C": "Waterlogging and strong evaporation",
+      "D": "Crop rotation alone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 319,
+    "question": "Gypsum is commonly used in reclaiming:",
+    "options": {
+      "A": "Sodic soils",
+      "B": "Acidic peat soils only",
+      "C": "Pure sandy beaches",
+      "D": "Mountain glaciers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 320,
+    "question": "Peaty soils are associated with:",
+    "options": {
+      "A": "Extreme dryness",
+      "B": "Wind erosion only",
+      "C": "Active lava",
+      "D": "Waterlogging and organic accumulation"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 321,
+    "question": "Arid soils commonly have:",
+    "options": {
+      "A": "Very high humus",
+      "B": "Low organic matter and salt accumulation",
+      "C": "Continuous leaching",
+      "D": "Thick peat horizons"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 322,
+    "question": "Contour ploughing primarily helps to:",
+    "options": {
+      "A": "Increase runoff",
+      "B": "Remove soil cover",
+      "C": "Reduce soil erosion on slopes",
+      "D": "Increase salinity"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 323,
+    "question": "Shelter belts are particularly useful against:",
+    "options": {
+      "A": "Wind erosion",
+      "B": "Glacial erosion",
+      "C": "Marine erosion",
+      "D": "Chemical dissolution"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 324,
+    "question": "Terracing is primarily used to conserve soil on:",
+    "options": {
+      "A": "Coastal lagoons",
+      "B": "Delta channels",
+      "C": "Ocean shelves",
+      "D": "Steep cultivated slopes"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 325,
+    "question": "Tropical thorn vegetation in India is characteristic of:",
+    "options": {
+      "A": "Very wet equatorial conditions",
+      "B": "Low-rainfall regions",
+      "C": "Alpine snowfields",
+      "D": "Tidal marshes only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 326,
+    "question": "Tropical deciduous forests shed leaves mainly during the:",
+    "options": {
+      "A": "Wettest season",
+      "B": "Winter snowfall everywhere",
+      "C": "Dry season",
+      "D": "Daily tidal cycle"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 327,
+    "question": "Mangroves are adapted to:",
+    "options": {
+      "A": "Saline, tidal environments",
+      "B": "Permanent mountain snow",
+      "C": "Extremely dry inland dunes",
+      "D": "Deep dark oceans"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 328,
+    "question": "Pneumatophores in some mangroves assist in:",
+    "options": {
+      "A": "Seed dispersal only",
+      "B": "Photosynthesis only",
+      "C": "Salt production",
+      "D": "Gas exchange in waterlogged soils"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 329,
+    "question": "Shola forests are associated with the higher elevations of the:",
+    "options": {
+      "A": "Aravalli",
+      "B": "Southern Western Ghats",
+      "C": "Vindhya",
+      "D": "Thar Desert"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 330,
+    "question": "Alpine vegetation occurs generally:",
+    "options": {
+      "A": "Below sea level",
+      "B": "In tidal deltas",
+      "C": "Above the upper tree line",
+      "D": "Only in equatorial lowlands"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 331,
+    "question": "Kharif crops are generally sown with the onset of the:",
+    "options": {
+      "A": "Southwest monsoon",
+      "B": "Winter frost",
+      "C": "Northeast trade winds globally",
+      "D": "Spring equinox only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 332,
+    "question": "Which is primarily a rabi crop?",
+    "options": {
+      "A": "Jute",
+      "B": "Cotton",
+      "C": "Bajra",
+      "D": "Wheat"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 333,
+    "question": "Zaid crops are grown mainly:",
+    "options": {
+      "A": "During winter snowfall",
+      "B": "Between rabi and kharif seasons",
+      "C": "Only during monsoon",
+      "D": "Once every five years"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 334,
+    "question": "Which crop normally requires high temperature and abundant water?",
+    "options": {
+      "A": "Gram",
+      "B": "Barley",
+      "C": "Rice",
+      "D": "Mustard"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 335,
+    "question": "Wheat generally requires:",
+    "options": {
+      "A": "Cool growing weather and warmer, dry ripening weather",
+      "B": "Permanent flooding",
+      "C": "Equatorial humidity all year",
+      "D": "Saline tidal water"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 336,
+    "question": "Bajra is well suited to:",
+    "options": {
+      "A": "Waterlogged clay only",
+      "B": "Alpine meadows",
+      "C": "Tidal marshes",
+      "D": "Relatively dry conditions and sandy soils"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 337,
+    "question": "Ragi is also called:",
+    "options": {
+      "A": "Pearl millet",
+      "B": "Finger millet",
+      "C": "Foxtail millet",
+      "D": "Proso millet"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 338,
+    "question": "Jowar is another name for:",
+    "options": {
+      "A": "Maize",
+      "B": "Barley",
+      "C": "Sorghum",
+      "D": "Oats"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 339,
+    "question": "Which crop is least suitable for rainfed dryland farming?",
+    "options": {
+      "A": "Sugarcane",
+      "B": "Bajra",
+      "C": "Jowar",
+      "D": "Gram"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 340,
+    "question": "Tea grows best in:",
+    "options": {
+      "A": "Saline alkaline soils",
+      "B": "Permanently flooded soils",
+      "C": "Desert sands",
+      "D": "Well-drained acidic soils"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 341,
+    "question": "Coffee in India is often grown:",
+    "options": {
+      "A": "On saline tidal flats",
+      "B": "Under shade on hill slopes",
+      "C": "In cold deserts",
+      "D": "Above the snowline"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 342,
+    "question": "Natural rubber requires:",
+    "options": {
+      "A": "Cold and dry conditions",
+      "B": "Mediterranean winter rain only",
+      "C": "Warm and humid conditions",
+      "D": "Tundra climate"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 343,
+    "question": "Jute cultivation is especially associated with:",
+    "options": {
+      "A": "Humid alluvial plains",
+      "B": "Cold deserts",
+      "C": "Thin mountain scree",
+      "D": "Saline lagoons"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 344,
+    "question": "Plantation agriculture typically involves:",
+    "options": {
+      "A": "Subsistence production of many crops on tiny plots",
+      "B": "Nomadic herding",
+      "C": "No processing facilities",
+      "D": "Large-scale commercial cultivation of a principal crop"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 345,
+    "question": "Shifting cultivation in northeastern India is commonly called:",
+    "options": {
+      "A": "Roca",
+      "B": "Jhum",
+      "C": "Chena",
+      "D": "Milpa"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 346,
+    "question": "“Chena” is a regional name for shifting cultivation in:",
+    "options": {
+      "A": "Brazil",
+      "B": "Mexico",
+      "C": "Sri Lanka",
+      "D": "Indonesia"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 347,
+    "question": "“Roca” is associated with shifting cultivation in:",
+    "options": {
+      "A": "Brazil",
+      "B": "Japan",
+      "C": "Egypt",
+      "D": "Norway"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 348,
+    "question": "Cropping intensity is calculated as:",
+    "options": {
+      "A": "Net sown area ÷ gross cropped area × 100",
+      "B": "Irrigated area ÷ forest area × 100",
+      "C": "Fallow area ÷ total area × 100",
+      "D": "Gross cropped area ÷ net sown area × 100"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 349,
+    "question": "Current fallow land is land left uncultivated for:",
+    "options": {
+      "A": "More than ten years",
+      "B": "One agricultural year or less",
+      "C": "Exactly five years",
+      "D": "More than twenty years"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 350,
+    "question": "Culturable wasteland includes land available for cultivation but uncultivated for:",
+    "options": {
+      "A": "One month",
+      "B": "One season",
+      "C": "More than five years",
+      "D": "Less than one year only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 351,
+    "question": "The highest mountain in Africa is:",
+    "options": {
+      "A": "Kilimanjaro",
+      "B": "Mount Kenya",
+      "C": "Mount Elgon",
+      "D": "Toubkal"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 352,
+    "question": "Kilimanjaro is located in:",
+    "options": {
+      "A": "Kenya",
+      "B": "Uganda",
+      "C": "Ethiopia",
+      "D": "Tanzania"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 353,
+    "question": "The Virunga Mountains are shared by the Democratic Republic of the Congo, Rwanda and:",
+    "options": {
+      "A": "Kenya",
+      "B": "Uganda",
+      "C": "Ethiopia",
+      "D": "Zambia"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 354,
+    "question": "The Atlas Mountains are located in:",
+    "options": {
+      "A": "Southern Africa",
+      "B": "Eastern Africa",
+      "C": "Northwestern Africa",
+      "D": "Central Africa"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 355,
+    "question": "The Ethiopian Highlands are also associated with the name:",
+    "options": {
+      "A": "Abyssinian Plateau",
+      "B": "Patagonian Plateau",
+      "C": "Anatolian Plateau",
+      "D": "Deccan Plateau"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 356,
+    "question": "The Namib Desert lies mainly along the coast of:",
+    "options": {
+      "A": "Kenya",
+      "B": "Nigeria",
+      "C": "Morocco",
+      "D": "Namibia"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 357,
+    "question": "The Nile drains into the:",
+    "options": {
+      "A": "Red Sea",
+      "B": "Mediterranean Sea",
+      "C": "Arabian Sea",
+      "D": "Black Sea"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 358,
+    "question": "The Congo River crosses the Equator:",
+    "options": {
+      "A": "Once",
+      "B": "Three times",
+      "C": "Twice",
+      "D": "Never"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 359,
+    "question": "Lake Victoria is shared by Tanzania, Uganda and:",
+    "options": {
+      "A": "Kenya",
+      "B": "Rwanda",
+      "C": "Ethiopia",
+      "D": "Malawi"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 360,
+    "question": "Lake Tanganyika lies within the:",
+    "options": {
+      "A": "Amazon Basin",
+      "B": "European Plain",
+      "C": "Australian Outback",
+      "D": "East African Rift system"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 361,
+    "question": "The highest peak of Antarctica is:",
+    "options": {
+      "A": "Mount Ross",
+      "B": "Vinson Massif",
+      "C": "Mount Erebus",
+      "D": "Mount Elgon"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 362,
+    "question": "Antarctica has the highest average elevation among continents largely because of its:",
+    "options": {
+      "A": "Dense forests",
+      "B": "High population",
+      "C": "Thick ice sheet and elevated bedrock",
+      "D": "Coral platforms"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 363,
+    "question": "Mount Erebus is an active volcano in:",
+    "options": {
+      "A": "Antarctica",
+      "B": "Greenland",
+      "C": "Iceland",
+      "D": "Madagascar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 364,
+    "question": "The Great Dividing Range runs mainly along Australia’s:",
+    "options": {
+      "A": "Western coast",
+      "B": "Northern coast only",
+      "C": "Central desert belt",
+      "D": "Eastern side"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 365,
+    "question": "The Murray–Darling Basin is in:",
+    "options": {
+      "A": "New Zealand",
+      "B": "Australia",
+      "C": "South Africa",
+      "D": "Canada"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 366,
+    "question": "Stewart Island lies south of:",
+    "options": {
+      "A": "Tasmania",
+      "B": "Madagascar",
+      "C": "New Zealand’s South Island",
+      "D": "Sri Lanka"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 367,
+    "question": "The Andes run along the western margin of:",
+    "options": {
+      "A": "South America",
+      "B": "North America",
+      "C": "Australia",
+      "D": "Europe"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 368,
+    "question": "The highest peak in South America is:",
+    "options": {
+      "A": "Denali",
+      "B": "Chimborazo",
+      "C": "Cotopaxi",
+      "D": "Aconcagua"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 369,
+    "question": "Patagonia lies mainly in:",
+    "options": {
+      "A": "Brazil and Peru",
+      "B": "Argentina and Chile",
+      "C": "Colombia and Venezuela",
+      "D": "Ecuador and Bolivia"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 370,
+    "question": "The Pampas are temperate grasslands chiefly associated with:",
+    "options": {
+      "A": "Canada",
+      "B": "Russia",
+      "C": "Argentina",
+      "D": "Mongolia"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 371,
+    "question": "The Amazon River drains into the:",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Pacific Ocean",
+      "C": "Caribbean Sea",
+      "D": "Gulf of Mexico"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 372,
+    "question": "The Orinoco Basin lies principally in:",
+    "options": {
+      "A": "Chile and Argentina",
+      "B": "Brazil and Uruguay",
+      "C": "Peru and Bolivia",
+      "D": "Venezuela and Colombia"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 373,
+    "question": "The Rocky Mountains lie in:",
+    "options": {
+      "A": "Eastern South America",
+      "B": "Western North America",
+      "C": "Central Europe",
+      "D": "Northern Africa"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 374,
+    "question": "Denali is located in:",
+    "options": {
+      "A": "Greenland",
+      "B": "Mexico",
+      "C": "Alaska",
+      "D": "Labrador"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 375,
+    "question": "Which Great Lake lies entirely within the United States?",
+    "options": {
+      "A": "Michigan",
+      "B": "Superior",
+      "C": "Huron",
+      "D": "Ontario"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 376,
+    "question": "Toronto is located on Lake:",
+    "options": {
+      "A": "Erie",
+      "B": "Superior",
+      "C": "Huron",
+      "D": "Ontario"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 377,
+    "question": "Milwaukee is located on Lake:",
+    "options": {
+      "A": "Ontario",
+      "B": "Michigan",
+      "C": "Erie",
+      "D": "Superior"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 378,
+    "question": "Buffalo is situated at the eastern end of Lake:",
+    "options": {
+      "A": "Huron",
+      "B": "Superior",
+      "C": "Erie",
+      "D": "Michigan"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 379,
+    "question": "The Great Lakes drain towards the Atlantic mainly through the:",
+    "options": {
+      "A": "St. Lawrence system",
+      "B": "Mississippi system",
+      "C": "Colorado system",
+      "D": "Yukon system"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 380,
+    "question": "Which European capital is not on the Danube?",
+    "options": {
+      "A": "Vienna",
+      "B": "Budapest",
+      "C": "Belgrade",
+      "D": "Prague"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 381,
+    "question": "The Danube drains into the:",
+    "options": {
+      "A": "Baltic Sea",
+      "B": "Black Sea",
+      "C": "North Sea",
+      "D": "Adriatic Sea"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 382,
+    "question": "Rotterdam is associated with the delta region of the:",
+    "options": {
+      "A": "Danube",
+      "B": "Volga",
+      "C": "Rhine and Meuse",
+      "D": "Dnieper"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 383,
+    "question": "The Volga empties into the:",
+    "options": {
+      "A": "Caspian Sea",
+      "B": "Black Sea",
+      "C": "Baltic Sea",
+      "D": "Arctic Ocean"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 384,
+    "question": "The Anatolian Plateau lies mainly in:",
+    "options": {
+      "A": "Iran",
+      "B": "Greece",
+      "C": "Romania",
+      "D": "Türkiye"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 385,
+    "question": "The Iberian Peninsula is occupied mainly by:",
+    "options": {
+      "A": "Italy and Greece",
+      "B": "Spain and Portugal",
+      "C": "Norway and Sweden",
+      "D": "Poland and Germany"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 386,
+    "question": "The strait connecting the Mediterranean with the Atlantic is:",
+    "options": {
+      "A": "Bosporus",
+      "B": "Dardanelles",
+      "C": "Gibraltar",
+      "D": "Hormuz"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 387,
+    "question": "The Bosporus connects the Black Sea with the:",
+    "options": {
+      "A": "Sea of Marmara",
+      "B": "Red Sea",
+      "C": "Caspian Sea",
+      "D": "Adriatic Sea"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 388,
+    "question": "The Strait of Hormuz links the Persian Gulf with the:",
+    "options": {
+      "A": "Red Sea",
+      "B": "Mediterranean Sea",
+      "C": "Gulf of Aden",
+      "D": "Gulf of Oman"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 389,
+    "question": "Bab el-Mandeb connects the Red Sea with the:",
+    "options": {
+      "A": "Persian Gulf",
+      "B": "Gulf of Aden",
+      "C": "Caspian Sea",
+      "D": "Black Sea"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 390,
+    "question": "The Strait of Malacca lies between the Malay Peninsula and:",
+    "options": {
+      "A": "Java",
+      "B": "Borneo",
+      "C": "Sumatra",
+      "D": "Sulawesi"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 391,
+    "question": "The Sunda Strait separates:",
+    "options": {
+      "A": "Java and Sumatra",
+      "B": "Borneo and Sulawesi",
+      "C": "India and Sri Lanka",
+      "D": "Australia and New Guinea"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 392,
+    "question": "The Bering Strait separates:",
+    "options": {
+      "A": "Greenland and Iceland",
+      "B": "Britain and France",
+      "C": "Japan and Korea",
+      "D": "Asia and North America"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 393,
+    "question": "Jordan has access to the sea through the:",
+    "options": {
+      "A": "Persian Gulf",
+      "B": "Gulf of Aqaba",
+      "C": "Gulf of Oman",
+      "D": "Gulf of Suez"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 394,
+    "question": "Which country is not on the Arabian Peninsula?",
+    "options": {
+      "A": "Oman",
+      "B": "Yemen",
+      "C": "Jordan",
+      "D": "Saudi Arabia"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 395,
+    "question": "Which country shares land boundaries with both Russia and Ukraine?",
+    "options": {
+      "A": "Belarus",
+      "B": "Estonia",
+      "C": "Lithuania",
+      "D": "Czechia"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 396,
+    "question": "Which country does not share a land boundary with Ukraine?",
+    "options": {
+      "A": "Poland",
+      "B": "Romania",
+      "C": "Hungary",
+      "D": "Lithuania"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 397,
+    "question": "The Durand Line separates:",
+    "options": {
+      "A": "India and Pakistan",
+      "B": "Afghanistan and Pakistan",
+      "C": "Iran and Afghanistan",
+      "D": "China and Afghanistan"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 398,
+    "question": "The Pearl River estuary has which pair of cities on opposite sides?",
+    "options": {
+      "A": "Bangkok and Singapore",
+      "B": "Tokyo and Osaka",
+      "C": "Hong Kong and Macau",
+      "D": "Manila and Cebu"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 399,
+    "question": "Lake Baikal is located in:",
+    "options": {
+      "A": "Russia",
+      "B": "Kazakhstan",
+      "C": "Mongolia",
+      "D": "China"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 400,
+    "question": "The Aral Sea lies between:",
+    "options": {
+      "A": "Iran and Iraq",
+      "B": "China and Mongolia",
+      "C": "Russia and Finland",
+      "D": "Kazakhstan and Uzbekistan"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 401,
+    "question": "Bauxite is the principal ore of:",
+    "options": {
+      "A": "Copper",
+      "B": "Aluminium",
+      "C": "Iron",
+      "D": "Manganese"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 402,
+    "question": "Which Indian state is especially important for bauxite deposits and production?",
+    "options": {
+      "A": "Punjab",
+      "B": "Haryana",
+      "C": "Odisha",
+      "D": "Delhi"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 403,
+    "question": "Bailadila is associated with:",
+    "options": {
+      "A": "Iron ore",
+      "B": "Petroleum",
+      "C": "Lignite",
+      "D": "Rock salt"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 404,
+    "question": "Khetri is associated with mining of:",
+    "options": {
+      "A": "Gold",
+      "B": "Bauxite",
+      "C": "Coal",
+      "D": "Copper"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 405,
+    "question": "Neyveli is best known for:",
+    "options": {
+      "A": "Copper",
+      "B": "Lignite",
+      "C": "Mica",
+      "D": "Uranium"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 406,
+    "question": "Jharia is particularly associated with:",
+    "options": {
+      "A": "Petroleum",
+      "B": "Bauxite",
+      "C": "Coking coal",
+      "D": "Gold"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 407,
+    "question": "Singareni coalfields are located in:",
+    "options": {
+      "A": "Telangana",
+      "B": "Odisha",
+      "C": "Gujarat",
+      "D": "Rajasthan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 408,
+    "question": "Mumbai High is an important:",
+    "options": {
+      "A": "Copper belt",
+      "B": "Inland coalfield",
+      "C": "Mica field",
+      "D": "Offshore oilfield"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 409,
+    "question": "Monazite-bearing beach sands are important sources of:",
+    "options": {
+      "A": "Coal",
+      "B": "Thorium",
+      "C": "Petroleum",
+      "D": "Rock salt"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 410,
+    "question": "Manikaran and Puga are associated with the potential for:",
+    "options": {
+      "A": "Tidal energy",
+      "B": "Coal power",
+      "C": "Geothermal energy",
+      "D": "Ocean thermal energy"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 411,
+    "question": "The “Lithium Triangle” comprises Argentina, Bolivia and:",
+    "options": {
+      "A": "Chile",
+      "B": "Brazil",
+      "C": "Peru",
+      "D": "Ecuador"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 412,
+    "question": "Sugar mills tend to locate near cane-growing areas because sugarcane is:",
+    "options": {
+      "A": "A weight-gaining mineral",
+      "B": "Easily stored for decades",
+      "C": "Unaffected by transport",
+      "D": "Bulky, perishable and weight-losing in processing"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 413,
+    "question": "Agglomeration economies arise when industries benefit from:",
+    "options": {
+      "A": "Complete isolation",
+      "B": "Spatial concentration and shared services",
+      "C": "The absence of labour",
+      "D": "Longer transport routes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 414,
+    "question": "National Waterway 1 is associated with the:",
+    "options": {
+      "A": "Brahmaputra",
+      "B": "Godavari",
+      "C": "Ganga–Bhagirathi–Hooghly system",
+      "D": "Narmada"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 415,
+    "question": "National Waterway 2 runs on the:",
+    "options": {
+      "A": "Brahmaputra",
+      "B": "Krishna",
+      "C": "Kaveri",
+      "D": "Tapi"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 416,
+    "question": "National Waterway 3 is principally associated with:",
+    "options": {
+      "A": "Punjab canals",
+      "B": "Rajasthan canals",
+      "C": "Kashmir lakes",
+      "D": "Kerala’s West Coast Canal system"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 417,
+    "question": "The Golden Quadrilateral connects Delhi, Mumbai, Chennai and:",
+    "options": {
+      "A": "Hyderabad",
+      "B": "Kolkata",
+      "C": "Bengaluru",
+      "D": "Lucknow"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 418,
+    "question": "The North–South Corridor links Srinagar with:",
+    "options": {
+      "A": "Kochi",
+      "B": "Madurai",
+      "C": "Kanyakumari",
+      "D": "Puducherry"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 419,
+    "question": "The East–West Corridor links Silchar with:",
+    "options": {
+      "A": "Porbandar",
+      "B": "Mumbai",
+      "C": "Kandla",
+      "D": "Surat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 420,
+    "question": "Deendayal Port is situated in the Gulf of:",
+    "options": {
+      "A": "Khambhat",
+      "B": "Mannar",
+      "C": "Aden",
+      "D": "Kachchh"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 421,
+    "question": "Mormugao Port is associated with the estuary of the:",
+    "options": {
+      "A": "Mandovi",
+      "B": "Zuari",
+      "C": "Narmada",
+      "D": "Mahanadi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 422,
+    "question": "Paradip Port is located in:",
+    "options": {
+      "A": "Gujarat",
+      "B": "Tamil Nadu",
+      "C": "Odisha",
+      "D": "Kerala"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 423,
+    "question": "Karwar is particularly important as a:",
+    "options": {
+      "A": "Naval port",
+      "B": "Himalayan dry port",
+      "C": "River confluence",
+      "D": "Desert trade centre"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 424,
+    "question": "An entrepôt is a centre principally associated with:",
+    "options": {
+      "A": "Subsistence farming",
+      "B": "Glacier research",
+      "C": "Mining only",
+      "D": "Import, storage and re-export trade"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 425,
+    "question": "Population density is calculated as:",
+    "options": {
+      "A": "Births divided by deaths",
+      "B": "Population divided by area",
+      "C": "Urban population divided by rural population",
+      "D": "Workers divided by dependants"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 426,
+    "question": "Natural population increase equals:",
+    "options": {
+      "A": "Immigration minus emigration",
+      "B": "Births plus immigration",
+      "C": "Births minus deaths",
+      "D": "Deaths minus births"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 427,
+    "question": "India’s “Year of Great Divide” in population history is:",
+    "options": {
+      "A": "1921",
+      "B": "1901",
+      "C": "1951",
+      "D": "1981"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 428,
+    "question": "The first synchronous all-India census was conducted in:",
+    "options": {
+      "A": "1857",
+      "B": "1872",
+      "C": "1901",
+      "D": "1881"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 429,
+    "question": "Under Census 2011, literacy is assessed for people aged:",
+    "options": {
+      "A": "Five years and above",
+      "B": "Seven years and above",
+      "C": "Ten years and above",
+      "D": "Fifteen years and above"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 430,
+    "question": "India’s census sex ratio expresses the number of:",
+    "options": {
+      "A": "Males per 100 females",
+      "B": "Children per 1,000 adults",
+      "C": "Females per 1,000 males",
+      "D": "Working women per 100 men"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 431,
+    "question": "A population pyramid displays:",
+    "options": {
+      "A": "Age and sex composition",
+      "B": "Income and occupation only",
+      "C": "Rainfall and temperature",
+      "D": "Literacy and rainfall"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 432,
+    "question": "A broad-based population pyramid generally indicates:",
+    "options": {
+      "A": "Very low birth rates",
+      "B": "An entirely elderly population",
+      "C": "Zero population growth necessarily",
+      "D": "A large proportion of young people"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 433,
+    "question": "A demographic dividend is most directly associated with a rising share of:",
+    "options": {
+      "A": "Retired people",
+      "B": "Working-age population",
+      "C": "Infants",
+      "D": "Dependants only"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 434,
+    "question": "A linear settlement commonly develops along a:",
+    "options": {
+      "A": "Circular crater",
+      "B": "Mountain summit",
+      "C": "Road, canal or river",
+      "D": "Closed lake shoreline only"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 435,
+    "question": "A conurbation forms when:",
+    "options": {
+      "A": "Expanding urban areas merge",
+      "B": "A village becomes abandoned",
+      "C": "A city loses all transport links",
+      "D": "A river changes course"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 436,
+    "question": "Human Development Index includes health, education and:",
+    "options": {
+      "A": "Military strength",
+      "B": "Forest cover",
+      "C": "Mineral reserves",
+      "D": "Standard of living"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 437,
+    "question": "The Ramsar Convention concerns:",
+    "options": {
+      "A": "Nuclear safety",
+      "B": "Wetlands",
+      "C": "Desert minerals",
+      "D": "Space debris"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 438,
+    "question": "The Nilgiri Biosphere Reserve extends across:",
+    "options": {
+      "A": "Kerala, Goa and Karnataka",
+      "B": "Tamil Nadu, Andhra Pradesh and Karnataka",
+      "C": "Tamil Nadu, Kerala and Karnataka",
+      "D": "Maharashtra, Goa and Karnataka"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 439,
+    "question": "Nokrek Biosphere Reserve is in:",
+    "options": {
+      "A": "Meghalaya",
+      "B": "Assam",
+      "C": "Sikkim",
+      "D": "Tripura"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 440,
+    "question": "Achanakmar–Amarkantak Biosphere Reserve extends across:",
+    "options": {
+      "A": "Gujarat and Rajasthan",
+      "B": "Maharashtra and Goa",
+      "C": "Odisha and Jharkhand",
+      "D": "Madhya Pradesh and Chhattisgarh"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 441,
+    "question": "Keibul Lamjao National Park is famous for:",
+    "options": {
+      "A": "Coral reefs",
+      "B": "Floating phumdi habitat",
+      "C": "Cold desert dunes",
+      "D": "Active volcanoes"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 442,
+    "question": "Point Calimere Wildlife and Bird Sanctuary is located in:",
+    "options": {
+      "A": "Puducherry",
+      "B": "Kerala",
+      "C": "Tamil Nadu",
+      "D": "Andaman and Nicobar Islands"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 443,
+    "question": "The IUCN Red List assesses:",
+    "options": {
+      "A": "Species’ extinction risk",
+      "B": "National GDP",
+      "C": "Global rainfall",
+      "D": "Earthquake magnitude"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 444,
+    "question": "The Montreal Protocol addresses:",
+    "options": {
+      "A": "Wetland conservation",
+      "B": "Marine shipping",
+      "C": "Desertification",
+      "D": "Ozone-depleting substances"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 445,
+    "question": "The Kyoto Protocol is primarily associated with:",
+    "options": {
+      "A": "Coral mapping",
+      "B": "Greenhouse-gas emission reduction",
+      "C": "Whale migration",
+      "D": "River navigation"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 446,
+    "question": "The Paris Agreement seeks to limit warming to well below 2°C while pursuing efforts towards:",
+    "options": {
+      "A": "3°C",
+      "B": "2.5°C",
+      "C": "1.5°C",
+      "D": "0°C"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 447,
+    "question": "The biodiversity “30×30” target concerns conserving at least 30% of relevant land and water areas by:",
+    "options": {
+      "A": "2030",
+      "B": "2040",
+      "C": "2050",
+      "D": "2060"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 448,
+    "question": "Eutrophication is commonly triggered by excessive inputs of:",
+    "options": {
+      "A": "Sand and gravel",
+      "B": "Oxygen alone",
+      "C": "Sodium chloride only",
+      "D": "Nitrogen and phosphorus"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 449,
+    "question": "Biomagnification refers to increasing pollutant concentration:",
+    "options": {
+      "A": "With increasing river depth only",
+      "B": "At successively higher trophic levels",
+      "C": "During rainfall only",
+      "D": "In rocks undergoing metamorphism"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 450,
+    "question": "A glacial lake outburst flood results from:",
+    "options": {
+      "A": "Ordinary daily tides",
+      "B": "Seasonal sea-breeze reversal",
+      "C": "Sudden release of water from a glacial lake",
+      "D": "Groundwater evaporation"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 451,
+    "question": "Consider the statements:\n1. All meridians meet at the poles.\n2. All parallels of latitude have equal circumference.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 452,
+    "question": "Consider the statements:\n1. Places east of Greenwich have local solar time behind Greenwich.\n2. A difference of 1° longitude corresponds to about four minutes of local solar time.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 453,
+    "question": "Consider the statements:\n1. Earth’s angular rotational velocity is approximately the same at all latitudes.\n2. Its rotational linear velocity decreases towards the poles.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 454,
+    "question": "Consider the statements:\n1. Seasons are caused mainly by Earth being closer to the Sun in summer.\n2. Earth’s axis is perpendicular to its orbital plane.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 455,
+    "question": "Consider the statements:\n1. P-waves can travel through solids and liquids.\n2. S-waves can pass through Earth’s liquid outer core.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 456,
+    "question": "Consider the statements:\n1. The Mercalli scale measures earthquake magnitude.\n2. Earthquake intensity may differ between locations during the same earthquake.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 457,
+    "question": "Consider the statements:\n1. Oceanic crust is generally thinner than continental crust.\n2. Oceanic crust is generally denser than continental crust.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 458,
+    "question": "Consider the statements:\n1. Volcanic arcs typically form at divergent plate boundaries.\n2. The Himalayas formed mainly through ocean-floor spreading between India and Eurasia.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 459,
+    "question": "Consider the statements:\n1. Salt-crystal growth can mechanically disintegrate rocks.\n2. Oxidation is a form of mechanical weathering.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 460,
+    "question": "Consider the statements:\n1. Soil creep is a rapid mass movement.\n2. Water saturation can reduce slope stability.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 461,
+    "question": "Consider the statements:\n1. Glaciers may deepen and widen pre-existing river valleys.\n2. Fjords form when the sea floods suitable glacial troughs.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 462,
+    "question": "Consider the statements:\n1. Dendritic drainage requires alternate bands of hard and soft rock.\n2. Radial drainage converges towards a central depression.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 463,
+    "question": "Consider the statements:\n1. Deposition commonly occurs on the inner bank of a river meander.\n2. The outer bank normally has slower flow and greater deposition.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 464,
+    "question": "Consider the statements:\n1. Barrier islands are immune to storm-surge damage.\n2. Lagoons may lie between barrier islands and the mainland.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 465,
+    "question": "Consider the statements:\n1. Temperature inversions suppress vertical mixing.\n2. Clear, calm nights favour surface radiation inversions.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 466,
+    "question": "Consider the statements:\n1. Relative humidity necessarily falls when air cools without moisture loss.\n2. Dew point is the temperature at which water begins boiling.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 467,
+    "question": "Consider the statements:\n1. Cirrus clouds are primarily composed of ice crystals.\n2. Stratus clouds are the principal producers of thunderstorms and hail.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 468,
+    "question": "Consider the statements:\n1. Closely spaced isobars indicate weak pressure gradients.\n2. Pressure-gradient force acts from higher towards lower pressure.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 469,
+    "question": "Consider the statements:\n1. Hadley circulation involves equatorial uplift.\n2. Descending air in subtropical highs contributes to widespread aridity.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 470,
+    "question": "Consider the statements:\n1. The Coriolis force is strongest at the Equator.\n2. Northern Hemisphere tropical cyclones generally rotate clockwise.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 471,
+    "question": "Consider the statements:\n1. Mediterranean climates commonly have dry summers.\n2. Tundra climates support dense tropical evergreen forests.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 472,
+    "question": "Consider the statements:\n1. El Niño always guarantees drought throughout India.\n2. ENSO affects both oceanic and atmospheric conditions.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 473,
+    "question": "Consider the statements:\n1. Strong evaporation can raise seawater salinity.\n2. Large freshwater inflows can lower coastal surface salinity.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 474,
+    "question": "Consider the statements:\n1. The Humboldt Current is warm.\n2. The Gulf Stream is a cold eastern-boundary current.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 475,
+    "question": "Consider the statements:\n1. Reef-building corals generally benefit from clear, sunlit water.\n2. Heavy sediment loading usually promotes reef growth by increasing light availability.",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 476,
+    "question": "Consider the following pairs:\n1. Entisol—minimal horizon development\n2. Histosol—high organic content\n3. Oxisol—intense tropical weathering\nHow many pairs are correctly matched?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "None"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 477,
+    "question": "Consider the following soil characteristics:\n1. High clay content\n2. Wide cracks during drying\n3. Good moisture retention\nWhich soil is indicated?",
+    "options": {
+      "A": "Black soil",
+      "B": "Desert sand",
+      "C": "Laterite soil",
+      "D": "Mountain scree"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 478,
+    "question": "Which set consists entirely of Himalayan or Trans-Himalayan passes in India?",
+    "options": {
+      "A": "Bolan, Khyber, Nathu La",
+      "B": "Khyber, Zoji La, Shipki La",
+      "C": "Bolan, Lipulekh, Nathu La",
+      "D": "Zoji La, Shipki La, Nathu La"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 479,
+    "question": "Arrange the following from north to south:\n1. Karakoram\n2. Zaskar\n3. Kunlun\n4. Ladakh",
+    "options": {
+      "A": "1–3–4–2",
+      "B": "3–1–4–2",
+      "C": "3–4–1–2",
+      "D": "4–1–3–2"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 480,
+    "question": "Which of the following peak–country pairs is correctly matched?",
+    "options": {
+      "A": "Dhaulagiri—India",
+      "B": "Makalu—Bhutan",
+      "C": "Kamet—India",
+      "D": "Namcha Barwa—Nepal"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 481,
+    "question": "Consider the following pairs:\n1. Salal—Chenab\n2. Hirakud—Mahanadi\n3. Bhakra—Sutlej\nWhich are correctly matched?",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "1 and 2 only",
+      "C": "2 and 3 only",
+      "D": "1 and 3 only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 482,
+    "question": "Which sequence correctly follows the Ganga downstream?",
+    "options": {
+      "A": "Patna–Kanpur–Prayagraj–Bhagalpur",
+      "B": "Prayagraj–Kanpur–Patna–Bhagalpur",
+      "C": "Kanpur–Patna–Prayagraj–Bhagalpur",
+      "D": "Kanpur–Prayagraj–Patna–Bhagalpur"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 483,
+    "question": "Which set consists entirely of Brahmaputra tributaries?",
+    "options": {
+      "A": "Betwa, Ken, Chambal",
+      "B": "Subansiri, Manas, Puthimari",
+      "C": "Bhima, Kabini, Amaravati",
+      "D": "Son, Gandak, Kosi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 484,
+    "question": "Match the lakes with their states: Loktak, Umiam, Kolleru, Vembanad.",
+    "options": {
+      "A": "Mizoram, Assam, Odisha, Karnataka",
+      "B": "Tripura, Sikkim, Tamil Nadu, Goa",
+      "C": "Manipur, Meghalaya, Andhra Pradesh, Kerala",
+      "D": "Nagaland, Assam, Kerala, Tamil Nadu"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 485,
+    "question": "Which pair is incorrectly matched?",
+    "options": {
+      "A": "Deendayal Port—Gulf of Khambhat",
+      "B": "Mormugao—Zuari estuary",
+      "C": "Cochin—Vembanad backwaters",
+      "D": "Paradip—Odisha"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 486,
+    "question": "Which pair of cities is not on the Golden Quadrilateral route?",
+    "options": {
+      "A": "Jaipur and Bhubaneswar",
+      "B": "Chennai and Kolkata",
+      "C": "Delhi and Mumbai",
+      "D": "Lucknow and Indore"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 487,
+    "question": "The Tropic of Cancer passes through:\n1. Gujarat\n2. Rajasthan\n3. Odisha\n4. Mizoram\nSelect the correct combination.",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 4 only",
+      "C": "2 and 3 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 488,
+    "question": "Which set correctly lists all four states bordering Telangana?",
+    "options": {
+      "A": "Odisha, Karnataka, Maharashtra, Andhra Pradesh",
+      "B": "Madhya Pradesh, Karnataka, Andhra Pradesh, Chhattisgarh",
+      "C": "Maharashtra, Chhattisgarh, Karnataka, Andhra Pradesh",
+      "D": "Odisha, Maharashtra, Tamil Nadu, Karnataka"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 489,
+    "question": "Consider the statements about Census 2011 literacy:\n1. A person who can read but cannot write is not considered literate.\n2. Reading and writing must be with understanding in any language.\nWhich is correct?",
+    "options": {
+      "A": "Both 1 and 2",
+      "B": "1 only",
+      "C": "2 only",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 490,
+    "question": "Under the Indian census population-size classification, a Class I town has a population of:",
+    "options": {
+      "A": "Below 5,000",
+      "B": "10,000–19,999",
+      "C": "50,000–99,999",
+      "D": "100,000 and above"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 491,
+    "question": "A settlement’s location enables it to connect its hinterland with international trade routes. It is best described as a:",
+    "options": {
+      "A": "Mining hamlet",
+      "B": "Gateway city",
+      "C": "Dispersed settlement",
+      "D": "Seasonal camp"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 492,
+    "question": "Which graph is most suitable for examining the relationship between city population and number of services?",
+    "options": {
+      "A": "Pie chart",
+      "B": "Climograph",
+      "C": "Scatter plot",
+      "D": "Population pyramid"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 493,
+    "question": "Consider the following pairs:\n1. Nilgiri—Tamil Nadu, Kerala and Karnataka\n2. Nokrek—Meghalaya\n3. Seshachalam—Andhra Pradesh\nWhich are correct?",
+    "options": {
+      "A": "1, 2 and 3",
+      "B": "1 only",
+      "C": "2 and 3 only",
+      "D": "1 and 2 only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 494,
+    "question": "Consider the statements:\n1. Hokera Wetland is in Jammu and Kashmir.\n2. Tso Moriri is in Ladakh.\n3. Point Calimere is in Puducherry.\nWhich are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1, 2 and 3",
+      "D": "1 and 2 only"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 495,
+    "question": "Which pair of environmental agreement and issue is incorrectly matched?",
+    "options": {
+      "A": "Ramsar—wetlands",
+      "B": "Montreal Protocol—biodiversity access and benefit-sharing",
+      "C": "Paris Agreement—climate change",
+      "D": "UNCCD—desertification"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 496,
+    "question": "Consider the statements about Antarctica:\n1. It is larger than Europe.\n2. It has the highest average continental elevation.\n3. Its highest peak is Mount Ross.\nWhich are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 2 only",
+      "D": "1, 2, 3"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 497,
+    "question": "Which European capital–river pair is incorrectly matched?",
+    "options": {
+      "A": "Prague—Danube",
+      "B": "Vienna—Danube",
+      "C": "Budapest—Danube",
+      "D": "Belgrade—Danube"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 498,
+    "question": "Match the currents with their thermal character:\n1. Benguela—cold\n2. Kuroshio—warm\n3. Labrador—cold\n4. Brazil—warm\nWhich are correctly matched?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 4 only",
+      "C": "1, 2 and 3 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 499,
+    "question": "Which situation most directly increases the risk of a glacial lake outburst flood?",
+    "options": {
+      "A": "Expansion of a stable forest canopy",
+      "B": "Failure of an unstable moraine dam holding a growing lake",
+      "C": "A fall in coastal tidal range",
+      "D": "Reduced sediment movement in a distant desert"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 500,
+    "question": "A region has high temperatures throughout the year, a distinct wet season, a long dry season, and grasslands with scattered trees. Identify its climate.",
+    "options": {
+      "A": "Marine west coast",
+      "B": "Mediterranean",
+      "C": "Tropical wet-and-dry",
+      "D": "Ice-cap"
+    },
+    "answer": "C"
+  }
+]
