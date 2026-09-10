@@ -35,10 +35,10 @@ const subjects = [
     color: "#fff5dc"
   },
   {
-    name: "Current Affairs",
+    name: "All in One",
     icon: "📰",
-    description: "Stay in the know",
-    file: "ca.json",
+    description: "Treasure Hunt",
+    file: "all.json",
     color: "#e8f1ff"
   },
   {

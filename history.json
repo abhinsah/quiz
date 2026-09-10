@@ -1,0 +1,2752 @@
+[
+  {
+    "question_number": 1,
+    "question": "The Battle of Colachel is significant because in this battle:",
+    "options": {
+      "A": "The French defeated the British in the Carnatic",
+      "B": "Marthanda Varma of Travancore defeated the Dutch",
+      "C": "Haider Ali defeated the British",
+      "D": "The British defeated Tipu Sultan"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "The misuse of ‘Dastak’ by the English East India Company officials meant:",
+    "options": {
+      "A": "Forced collection of land revenue from peasants",
+      "B": "Misuse of duty-free trade permits for private trade",
+      "C": "Forced recruitment of sepoys",
+      "D": "Illegal minting of coins"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 3,
+    "question": "The Battle of Buxar is considered more decisive than Plassey mainly because:",
+    "options": {
+      "A": "It was fought between the French and the British",
+      "B": "It established British mastery over Bengal, Bihar and Odisha through a formal grant of Diwani",
+      "C": "It ended Dutch power in India",
+      "D": "It led to the immediate annexation of Awadh"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "The Dual Government in Bengal meant:",
+    "options": {
+      "A": "Joint rule of the British and the French",
+      "B": "Diwani rights with the Company and Nizamat with the Nawab",
+      "C": "Rule by two Governors-General",
+      "D": "Division of Bengal into two provinces"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 5,
+    "question": "The Bengal Famine was worsened primarily by:",
+    "options": {
+      "A": "Locust attacks destroying all crops",
+      "B": "Rat infestation in granaries",
+      "C": "Excessively high levels of taxation and Company policies",
+      "D": "A smallpox epidemic alone"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 6,
+    "question": "The Carnatic Wars were fought mainly between:",
+    "options": {
+      "A": "The British and the Dutch",
+      "B": "The British and the French for supremacy in South India",
+      "C": "The Marathas and the Mughals",
+      "D": "The Portuguese and the Dutch"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "Which one of the following was NOT a condition of the Subsidiary Alliance of Wellesley?",
+    "options": {
+      "A": "The British would protect the ally",
+      "B": "The ally could freely enter into agreements with other rulers or engage in warfare",
+      "C": "A British armed contingent would be stationed in the ally’s territory",
+      "D": "The ally would provide resources for maintenance of the contingent"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 8,
+    "question": "The Doctrine of Lapse was used to annex:",
+    "options": {
+      "A": "Hyderabad and Mysore",
+      "B": "Jhansi, Satara and Nagpur",
+      "C": "Punjab and Sind",
+      "D": "Bengal and Awadh"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "Awadh was annexed by Dalhousie on the ground of:",
+    "options": {
+      "A": "Doctrine of Lapse due to absence of heir",
+      "B": "Misgovernment",
+      "C": "Subsidiary Alliance default",
+      "D": "Revolt by the Nawab"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 10,
+    "question": "Dalhousie described as “a cherry that will drop into our mouth one day” the kingdom of:",
+    "options": {
+      "A": "Jhansi",
+      "B": "Awadh",
+      "C": "Gwalior",
+      "D": "Delhi"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 11,
+    "question": "British policy towards Afghanistan in the first half of the 19th century aimed at:",
+    "options": {
+      "A": "Annexing Afghanistan as a directly controlled territory",
+      "B": "Weakening Russian influence without promoting a strong Afghanistan either",
+      "C": "Promoting Russian influence to control tribal leaders",
+      "D": "Making Afghanistan the capital of British India"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 12,
+    "question": "The First Anglo-Maratha War was concluded by:",
+    "options": {
+      "A": "The Treaty of Surat",
+      "B": "The Treaty of Purandar",
+      "C": "The Convention of Wadgaon",
+      "D": "The Treaty of Salbai"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 13,
+    "question": "The Treaty of Salbai is associated with the end of:",
+    "options": {
+      "A": "First Anglo-Mysore War",
+      "B": "First Anglo-Maratha War",
+      "C": "First Anglo-Sikh War",
+      "D": "Anglo-Burmese War"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 14,
+    "question": "Tipu Sultan is associated with:",
+    "options": {
+      "A": "Strong resistance to the British in Mysore, interest in French alliance and administrative reforms",
+      "B": "Founding the Subsidiary Alliance",
+      "C": "Leading the Santhal rebellion",
+      "D": "Signing the Treaty of Amritsar with the British as a Maratha chief"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 15,
+    "question": "Maharaja Ranjit Singh is best known for:",
+    "options": {
+      "A": "Establishing a strong Sikh kingdom in Punjab with capital at Lahore and maintaining the Khalsa army",
+      "B": "Defeating the British at Plassey",
+      "C": "Founding the Arya Samaj",
+      "D": "Leading the Rampa rebellion"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 16,
+    "question": "The Pitt’s India Act is distinguished from the Regulating Act mainly because it:",
+    "options": {
+      "A": "Established a system of dual control by the British Government and the Company",
+      "B": "Ended Company rule completely",
+      "C": "Introduced separate electorates",
+      "D": "Created provincial autonomy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 17,
+    "question": "The Charter Act that ended the East India Company’s trade monopoly with India (except tea and China trade) is known for:",
+    "options": {
+      "A": "Allowing Christian missionaries and promoting education",
+      "B": "Introducing dyarchy",
+      "C": "Granting dominion status",
+      "D": "Establishing the Supreme Court at Calcutta"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 18,
+    "question": "The Permanent Settlement is characterised by:",
+    "options": {
+      "A": "Revenue fixed permanently with zamindars as proprietors, with a sunset law for non-payment",
+      "B": "Direct settlement with ryots with periodic revision",
+      "C": "Village community as the unit of assessment",
+      "D": "Revenue-free land for all peasants"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 19,
+    "question": "The Ryotwari Settlement is characterised by:",
+    "options": {
+      "A": "Settlement directly with individual cultivators, assessment revised periodically",
+      "B": "Permanent revenue with zamindars",
+      "C": "Joint village responsibility for revenue",
+      "D": "No revenue collection in cash"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 20,
+    "question": "The Mahalwari Settlement is characterised by:",
+    "options": {
+      "A": "Assessment with the village community (mahal) as a whole",
+      "B": "Permanent settlement with zamindars only",
+      "C": "Individual ryot settlement in all areas",
+      "D": "Abolition of land revenue"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 21,
+    "question": "The ‘deindustrialisation’ of India in the 19th century most severely affected:",
+    "options": {
+      "A": "Silk manufacture",
+      "B": "Cotton textiles",
+      "C": "Iron and steel",
+      "D": "Woollen manufacture"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 22,
+    "question": "The ‘Dadni’ system was primarily associated with:",
+    "options": {
+      "A": "Textile production through advances given to weavers",
+      "B": "Warfare organisation",
+      "C": "Payment of salaries to officials",
+      "D": "Collection of land revenue"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 23,
+    "question": "The Deccan Riots at Supa in Poona district saw peasants:",
+    "options": {
+      "A": "Attack shopkeepers, burn bahi-khata account books and target Sahukars",
+      "B": "Attack British cantonments with modern rifles",
+      "C": "Demand separate electorates",
+      "D": "Boycott foreign cloth under Gandhi’s leadership"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 24,
+    "question": "Consider the following statements: 1. In the 19th century peasants in many parts of India revolted against moneylenders and grain dealers. 2. At Supa, peasants attacked shops, looted grain and burnt account books of Sahukars. Which is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 25,
+    "question": "The initial development of railways in India by the British involved:",
+    "options": {
+      "A": "Free land to private investors and guaranteed return on capital even in case of loss",
+      "B": "Complete Indian ownership with no British guarantee",
+      "C": "Joint management with elected Indian bodies",
+      "D": "No relation with British financial investors"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 26,
+    "question": "Dadabhai Naoroji is associated with:",
+    "options": {
+      "A": "Formulating the concept of poverty as a measurable indicator and the Drain of Wealth theory",
+      "B": "Founding the Ghadar Party",
+      "C": "Leading the HSRA",
+      "D": "Signing the Poona Pact"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 27,
+    "question": "The play ‘Neel Darpan’ depicted the atrocities on indigo cultivators. It was written by Dinabandhu Mitra and translated into English by:",
+    "options": {
+      "A": "Michael Madhusudan Dutta",
+      "B": "James Long",
+      "C": "William Jones",
+      "D": "James Prinsep"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 28,
+    "question": "The tinkathia system in Champaran meant:",
+    "options": {
+      "A": "Compulsory cultivation of indigo on a fixed portion of land",
+      "B": "Fixed cash salary to weavers",
+      "C": "Duty-free trade permit",
+      "D": "Village artisan service"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 29,
+    "question": "Who brought the ruins of Hampi to light?",
+    "options": {
+      "A": "Colonel Colin Mackenzie",
+      "B": "James Prinsep",
+      "C": "William Jones",
+      "D": "James Rennell"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 30,
+    "question": "The Serampore Mission belonged to:",
+    "options": {
+      "A": "William Carey, Joshua Marshman and William Ward",
+      "B": "David Hare alone",
+      "C": "William Bentinck and Macaulay",
+      "D": "Keshab Chandra Sen and Dayananda Saraswati"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 31,
+    "question": "The Hindu Dharma Sabha in the 19th century was founded by:",
+    "options": {
+      "A": "Radhakanta Deb",
+      "B": "Ram Mohan Roy",
+      "C": "Dwarkanath Tagore",
+      "D": "Keshab Chandra Sen"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 32,
+    "question": "Raja Ram Mohan Roy is correctly associated with:",
+    "options": {
+      "A": "Opposition to Sati and promotion of modern education",
+      "B": "Founding the Arya Samaj",
+      "C": "Leading the Deoband movement",
+      "D": "Opposing widow remarriage"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 33,
+    "question": "Consider statements about widows in 18th-century India: 1. Sawai Jai Singh of Amber promoted widow remarriage. 2. Maratha General Parshuram Bhau promoted widow remarriage. 3. Raja Ram Mohan Roy opposed Sati. Which are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "1 and 3 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 34,
+    "question": "The Brahmo Samaj, Prarthana Samaj and Arya Samaj had in common:",
+    "options": {
+      "A": "Opposition to idolatry and caste rigidity and promotion of social reform",
+      "B": "Support for Sati and child marriage",
+      "C": "Complete rejection of all Western education",
+      "D": "Demand for separate electorates"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 35,
+    "question": "‘Back to the Vedas’ and the Shuddhi movement are associated with:",
+    "options": {
+      "A": "Dayananda Saraswati and the Arya Samaj",
+      "B": "Ram Mohan Roy and the Brahmo Samaj",
+      "C": "Vivekananda and the Ramakrishna Mission",
+      "D": "Syed Ahmed Khan and the Aligarh movement"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 36,
+    "question": "The Ramakrishna Mission was founded on the teachings of Ramakrishna by:",
+    "options": {
+      "A": "Swami Vivekananda",
+      "B": "Dayananda Saraswati",
+      "C": "Keshab Chandra Sen",
+      "D": "M. G. Ranade"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 37,
+    "question": "Satyashodhak Samaj was founded to uplift the depressed and oppose caste domination by:",
+    "options": {
+      "A": "Jyotiba Phule",
+      "B": "B. R. Ambedkar in his early career",
+      "C": "Periyar",
+      "D": "Narayana Guru"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 38,
+    "question": "The Self-Respect Movement is associated with:",
+    "options": {
+      "A": "E. V. Ramaswami Naicker (Periyar)",
+      "B": "Jyotiba Phule",
+      "C": "Aurobindo Ghosh",
+      "D": "Pherozeshah Mehta"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 39,
+    "question": "The Aligarh Movement is associated with:",
+    "options": {
+      "A": "Syed Ahmed Khan’s promotion of modern education among Muslims",
+      "B": "Orthodox opposition to all English education",
+      "C": "Founding of Deoband seminary",
+      "D": "Leading the Khilafat Movement alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 40,
+    "question": "The Deoband school is best described as:",
+    "options": {
+      "A": "A conservative Islamic seminary emphasising traditional learning",
+      "B": "A modern university modelled on Cambridge",
+      "C": "A Sikh reform organisation",
+      "D": "A Christian missionary body"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 41,
+    "question": "In respect of Balutedars, consider statements: 1. They were village servants and artisans. 2. They were employed by an individual peasant family. 3. They existed in the medieval Deccan and Maharashtra. Which are correct?",
+    "options": {
+      "A": "1 and 2 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 42,
+    "question": "The first Viceroy to officially shift his Council to Simla in summer was:",
+    "options": {
+      "A": "John Lawrence",
+      "B": "Lord Dalhousie",
+      "C": "Lord Mayo",
+      "D": "William Bentinck"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 43,
+    "question": "The Vernacular Press Act is associated with:",
+    "options": {
+      "A": "Curbs on Indian-language newspapers",
+      "B": "Complete freedom to all press",
+      "C": "Banning only English newspapers",
+      "D": "Establishing the first printing press"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 44,
+    "question": "Metcalfe is called the ‘Liberator of the Press’ because he:",
+    "options": {
+      "A": "Removed restrictions on the press in India",
+      "B": "Imposed censorship on all newspapers",
+      "C": "Banned the vernacular press",
+      "D": "Founded the Bombay Chronicle"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 45,
+    "question": "The Ilbert Bill controversy was about:",
+    "options": {
+      "A": "Allowing Indian judges to try European accused in criminal cases",
+      "B": "Imposing income tax on Europeans only",
+      "C": "Granting separate electorates",
+      "D": "Partitioning Bengal"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 46,
+    "question": "Wood’s Despatch is called the Magna Carta of English education because it:",
+    "options": {
+      "A": "Proposed a scheme of education from primary to university level with emphasis on English and vernaculars",
+      "B": "Banned all vernacular education",
+      "C": "Closed all universities",
+      "D": "Introduced dyarchy in education"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 47,
+    "question": "Macaulay’s Minute is associated with:",
+    "options": {
+      "A": "Promotion of English education in India",
+      "B": "Promotion of only Sanskrit and Persian",
+      "C": "Abolition of Sati",
+      "D": "Introduction of railways"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 48,
+    "question": "The Hunter Commission is mainly associated with:",
+    "options": {
+      "A": "Education, especially primary education",
+      "B": "The Jallianwala massacre inquiry",
+      "C": "Police reforms after 1857",
+      "D": "Famine relief"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 49,
+    "question": "The Poona Sarvajanik Sabha, Indian Association, Madras Mahajan Sabha and Bombay Presidency Association were:",
+    "options": {
+      "A": "Pre-Congress political associations raising Indian demands",
+      "B": "Revolutionary secret societies",
+      "C": "British official bodies",
+      "D": "Trade unions of mill workers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 50,
+    "question": "The Bombay Presidency Association was formed by:",
+    "options": {
+      "A": "Ferozeshah Mehta and Badruddin Tyabji and others",
+      "B": "Sohan Singh Bhakna and Lala Hardayal",
+      "C": "Bhagat Singh and Sukhdev",
+      "D": "Narayan Surve and Amol Palekar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 51,
+    "question": "Surendranath Banerjee and his group planned:",
+    "options": {
+      "A": "An Indian National Conference at Calcutta as a step towards all-India organisation",
+      "B": "The Ghadar Movement in San Francisco",
+      "C": "The HSRA at Delhi",
+      "D": "The Forward Bloc"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 52,
+    "question": "The Indian National Congress as an all-India body was created with the initiative of:",
+    "options": {
+      "A": "Allan Octavian Hume, with the first session presided over by W. C. Bonnerjee",
+      "B": "Sohan Singh Bhakna alone",
+      "C": "Subhas Chandra Bose alone",
+      "D": "B. R. Ambedkar alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 53,
+    "question": "Moderates differed from Extremists mainly in:",
+    "options": {
+      "A": "Methods—Moderates relied on petitions and constitutional agitation, Extremists stressed Swadeshi, boycott and self-reliance",
+      "B": "Complete loyalty to British with no demands",
+      "C": "Demand for separate Pakistan",
+      "D": "Rejection of all social reform"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 54,
+    "question": "The Surat Split in Congress was mainly over:",
+    "options": {
+      "A": "The extent and method of Swadeshi and boycott and choice of leadership",
+      "B": "The language of the Constitution",
+      "C": "Temple entry",
+      "D": "Labour laws"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 55,
+    "question": "Separate electorate for Muslims was first provided by:",
+    "options": {
+      "A": "Morley-Minto Reforms",
+      "B": "Montagu-Chelmsford Reforms",
+      "C": "Communal Award",
+      "D": "Government of India Act with provincial autonomy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 56,
+    "question": "The Lucknow Pact is known for:",
+    "options": {
+      "A": "Congress–League agreement and reunion of Moderate and Extremist wings",
+      "B": "Gandhi–Ambedkar agreement on reserved seats",
+      "C": "British–INA agreement",
+      "D": "Congress–British agreement on dominion status"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 57,
+    "question": "The Home Rule Leagues were led by:",
+    "options": {
+      "A": "Tilak and Annie Besant demanding self-government",
+      "B": "Gandhi and Nehru for full independence only",
+      "C": "Jinnah alone for Pakistan",
+      "D": "Savarkar for revolutionary violence"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 58,
+    "question": "The significance of the Lucknow Session of Congress includes:",
+    "options": {
+      "A": "Reunion of Congress factions and joint platform with the League",
+      "B": "Adoption of Purna Swaraj as goal",
+      "C": "Launch of Quit India",
+      "D": "Acceptance of Cabinet Mission Plan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 59,
+    "question": "Champaran Satyagraha was concerned with:",
+    "options": {
+      "A": "Grievances of indigo cultivators forced under tinkathia",
+      "B": "Mill workers’ wages in Ahmedabad",
+      "C": "Peasants’ demand after crop failure in Kheda",
+      "D": "Salt tax"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 60,
+    "question": "Ahmedabad Mill Strike is noted because:",
+    "options": {
+      "A": "Gandhi first used a hunger strike to support textile workers’ demand",
+      "B": "It led to the Jallianwala massacre",
+      "C": "It demanded separate electorates",
+      "D": "It was led by the British army"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 61,
+    "question": "Kheda Satyagraha was launched for:",
+    "options": {
+      "A": "Suspension of revenue after crop failure, with Vallabhbhai Patel’s leadership",
+      "B": "Salt law breaking",
+      "C": "Temple entry",
+      "D": "Boycott of Simon Commission"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 62,
+    "question": "The Satyagraha Sabha was founded in response to:",
+    "options": {
+      "A": "The Rowlatt Bills giving extraordinary powers of detention",
+      "B": "The Salt tax",
+      "C": "The Communal Award",
+      "D": "The Cabinet Mission proposals"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 63,
+    "question": "The Jallianwala Bagh massacre occurred in the context of:",
+    "options": {
+      "A": "Protests against Rowlatt Act and martial law in Punjab",
+      "B": "Quit India Movement",
+      "C": "Civil Disobedience salt march",
+      "D": "1857 Revolt"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 64,
+    "question": "Which one was NOT a part of the Non-Cooperation programme?",
+    "options": {
+      "A": "Reaching Congress organisation to villages and mohallas",
+      "B": "Boycott of government schools and colleges",
+      "C": "Taking control of law-and-order machinery by the Congress Working Committee",
+      "D": "Surrender of titles and honours given by government"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 65,
+    "question": "Chauri Chaura is associated with:",
+    "options": {
+      "A": "Withdrawal of Non-Cooperation after violence",
+      "B": "Launch of Civil Disobedience",
+      "C": "Signing of Gandhi-Irwin Pact",
+      "D": "Founding of HSRA"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 66,
+    "question": "After the withdrawal of Non-Cooperation, the Swarajists differed from No-Changers because Swarajists:",
+    "options": {
+      "A": "Wanted to enter councils to obstruct from within, while No-Changers stressed constructive work outside councils",
+      "B": "Wanted complete support to British",
+      "C": "Demanded Pakistan",
+      "D": "Opposed all Khadi work"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 67,
+    "question": "Who among the following belonged to the No-Changers’ group?",
+    "options": {
+      "A": "C. Rajagopalachari",
+      "B": "Motilal Nehru",
+      "C": "C. R. Das",
+      "D": "Vithalbhai Patel"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 68,
+    "question": "The Ghadar Movement headquarters were at:",
+    "options": {
+      "A": "San Francisco",
+      "B": "Stanford University campus as capital",
+      "C": "Portland",
+      "D": "Florida"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 69,
+    "question": "Consider statements about Ghadar: 1. It began in San Francisco. 2. It was founded by Sohan Singh Bhakna. 3. It took its name from the weekly ‘Ghadar’ brought out in several Indian languages. Which are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "2 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 70,
+    "question": "The founder members of the Hindustan Socialist Republican Association/Army included:",
+    "options": {
+      "A": "Bhagat Singh, Jatindranath, Ajoy Ghosh and Phanindranath Ghosh",
+      "B": "Only British officials",
+      "C": "Only moderates like Gokhale",
+      "D": "Only leaders of the Muslim League"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 71,
+    "question": "The Kakori episode is associated with:",
+    "options": {
+      "A": "Hindustan Republican Association’s train action and subsequent trial",
+      "B": "Jallianwala protest",
+      "C": "Salt march",
+      "D": "Naval mutiny"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 72,
+    "question": "The Chittagong Armory Raid is associated with:",
+    "options": {
+      "A": "Surya Sen",
+      "B": "Bhagat Singh",
+      "C": "Sohan Singh Bhakna",
+      "D": "Rash Behari Bose in Japan only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 73,
+    "question": "‘Bandi Jivan’ was authored by:",
+    "options": {
+      "A": "Rash Behari Bose",
+      "B": "Veer Savarkar",
+      "C": "Aruna Asaf Ali",
+      "D": "Sachindranath Sanyal"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 74,
+    "question": "‘The Indian Struggle’ was authored by:",
+    "options": {
+      "A": "Vinayak Damodar Savarkar",
+      "B": "Subhas Chandra Bose",
+      "C": "Vallabhbhai Patel",
+      "D": "Sarat Chandra Bose"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 75,
+    "question": "The popular line ‘Khoob ladi mardani woh to Jhansi wali rani thi’ was written by:",
+    "options": {
+      "A": "Mahadevi Varma",
+      "B": "Subhadra Kumari Chauhan",
+      "C": "Amrita Pritam",
+      "D": "Balamani Amma"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 76,
+    "question": "‘Anandamath’ portrays the Mother as ‘she was, she is, she will be’ and is authored by:",
+    "options": {
+      "A": "Bankim Chandra Chatterji",
+      "B": "Dinabandhu Mitra",
+      "C": "Sarat Chandra",
+      "D": "Premchand"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 77,
+    "question": "Which pair of Newspaper and Editor is NOT correctly matched?",
+    "options": {
+      "A": "Navjivan–Mahatma Gandhi",
+      "B": "Mahratta–Bal Gangadhar Tilak",
+      "C": "Bengalee–Surendranath Banerjea",
+      "D": "Voice of India–Gopal Krishna Gokhale"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 78,
+    "question": "‘Voice of India’ was actually associated with:",
+    "options": {
+      "A": "Dadabhai Naoroji",
+      "B": "Gopal Krishna Gokhale as founder-editor",
+      "C": "Tilak as sole editor",
+      "D": "British government gazette"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 79,
+    "question": "‘Kisan Bulletin’ is associated with:",
+    "options": {
+      "A": "Indulal Yagnik",
+      "B": "Pherozeshah Mehta",
+      "C": "Aurobindo Ghosh",
+      "D": "E. V. Ramaswami Naicker"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 80,
+    "question": "‘Bombay Chronicle’ is associated with:",
+    "options": {
+      "A": "Pherozeshah Mehta",
+      "B": "Indulal Yagnik",
+      "C": "Aurobindo Ghosh",
+      "D": "Narayan Surve"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 81,
+    "question": "‘Bhawani Mandir’ pamphlet is associated with:",
+    "options": {
+      "A": "Aurobindo Ghosh",
+      "B": "Pherozeshah Mehta",
+      "C": "Indulal Yagnik",
+      "D": "Dadabhai Naoroji"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 82,
+    "question": "The Congress Socialist Party was founded by:",
+    "options": {
+      "A": "Acharya Narendra Dev and others like Jayaprakash Narayan",
+      "B": "Jawaharlal Nehru as sole founder",
+      "C": "Motilal Nehru as sole founder",
+      "D": "Asoka Mehta alone with no colleagues"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 83,
+    "question": "The distribution of charkhas on a wide scale was decided by:",
+    "options": {
+      "A": "Congress Working Committee in 1919",
+      "B": "All India Congress Committee in 1921",
+      "C": "Mahatma Gandhi at the start of Dandi March",
+      "D": "All India Congress Committee in 1947"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 84,
+    "question": "Bardoli Satyagraha is best known for:",
+    "options": {
+      "A": "Peasant resistance to enhanced revenue under Vallabhbhai Patel’s leadership",
+      "B": "Salt making in Gujarat",
+      "C": "Mill workers’ strike",
+      "D": "Naval ratings’ revolt"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 85,
+    "question": "The Sanikatta Salt Works known for Salt Satyagraha is located in:",
+    "options": {
+      "A": "Gujarat",
+      "B": "Tamil Nadu",
+      "C": "Kerala",
+      "D": "Karnataka"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 86,
+    "question": "The Kalaram temple known for temple-entry movements is located in:",
+    "options": {
+      "A": "Maharashtra",
+      "B": "Kerala",
+      "C": "Tamil Nadu",
+      "D": "Gujarat"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 87,
+    "question": "Matangini Hazra and Lakshman Naik sacrificed their lives in:",
+    "options": {
+      "A": "Bardoli Satyagraha",
+      "B": "Non-Cooperation Movement",
+      "C": "Civil Disobedience Movement",
+      "D": "Quit India Movement"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 88,
+    "question": "With reference to the Revolt of 1857, Shah Mal mobilised people of Baraut and Gonoo was a Kol leader of Singhbhum. Which is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 89,
+    "question": "The Rampa Rebellion in which Koya and Konda chiefs rose against a Mansabdar overlord refers to:",
+    "options": {
+      "A": "The Rampa Rebellion of 1879–1880",
+      "B": "The Gudem Uprising of 1886 alone",
+      "C": "The Rampa Rebellion of 1922–1924 led by Alluri",
+      "D": "The Telangana Armed Struggle"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 90,
+    "question": "Alluri Sitarama Raju is associated with:",
+    "options": {
+      "A": "Tribal uprising in the Godavari agency/Rampa region",
+      "B": "Leading the Home Rule League",
+      "C": "Founding the Communist Party",
+      "D": "Signing the Treaty of Salbai"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 91,
+    "question": "Birsa Munda is associated with:",
+    "options": {
+      "A": "Munda uprising asserting tribal rights and religion",
+      "B": "Leading the Ghadar Party",
+      "C": "Founding Aligarh College",
+      "D": "Editing the Bengalee"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 92,
+    "question": "The Santhal uprising was directed mainly against:",
+    "options": {
+      "A": "Zamindars, moneylenders and colonial oppression",
+      "B": "The French in Pondicherry",
+      "C": "The Dutch at Colachel",
+      "D": "The Portuguese at Goa"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 93,
+    "question": "The Moplah/Mappila uprising occurred in:",
+    "options": {
+      "A": "Malabar, with peasant grievances and Khilafat influence",
+      "B": "Punjab as a Sikh revolt",
+      "C": "Bengal as an indigo revolt only",
+      "D": "Maharashtra as a mill strike"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 94,
+    "question": "The Kuka Movement is associated with:",
+    "options": {
+      "A": "Sikh religious reform and later anti-British resistance in Punjab",
+      "B": "Tribal revolt in Chotanagpur",
+      "C": "Peasant revolt in Malabar",
+      "D": "Labour strike in Bombay"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 95,
+    "question": "The Paika Rebellion is associated with:",
+    "options": {
+      "A": "Odisha under Bakshi Jagabandhu",
+      "B": "Punjab under Ranjit Singh",
+      "C": "Bengal under Surya Sen",
+      "D": "Madras under Periyar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 96,
+    "question": "The Telangana and Tebhaga movements were:",
+    "options": {
+      "A": "Peasant movements demanding better share and rights",
+      "B": "Naval mutinies",
+      "C": "Princely annexations",
+      "D": "British cabinet missions"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 97,
+    "question": "The Tebhaga demand meant:",
+    "options": {
+      "A": "Two-thirds share of produce to the bargadar/sharecropper",
+      "B": "Complete abolition of all schools",
+      "C": "Separate electorates",
+      "D": "Dominion status"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 98,
+    "question": "The All India Trade Union Congress (AITUC) is associated with:",
+    "options": {
+      "A": "Early organised labour movement with leaders like Lala Lajpat Rai as president",
+      "B": "A religious body",
+      "C": "A British business chamber",
+      "D": "A princely council"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 99,
+    "question": "Who among the following was NOT a woman labour organiser of the 1920s strikes?",
+    "options": {
+      "A": "Sarala Devi Chaudhurani",
+      "B": "Ushabai Dange",
+      "C": "Prabhabati Devi",
+      "D": "Anasuya Behn (Anasuya Sarabhai)"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 100,
+    "question": "Anasuya Behn is known for:",
+    "options": {
+      "A": "Organising textile labour in Ahmedabad",
+      "B": "Leading the HSRA",
+      "C": "Founding the Ghadar Party",
+      "D": "Signing the Treaty of Salbai"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 101,
+    "question": "The Civil Disobedience Movement was started with:",
+    "options": {
+      "A": "Breaking of salt laws",
+      "B": "Boycott of Simon Commission alone",
+      "C": "Demand for separate electorates",
+      "D": "Naval mutiny"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 102,
+    "question": "During the Second Round Table Conference in London, the British Government:",
+    "options": {
+      "A": "Refused to accept the basic nationalist demand for freedom",
+      "B": "Granted dominion status immediately",
+      "C": "Accepted Purna Swaraj",
+      "D": "Dissolved the Congress"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 103,
+    "question": "Viceroy Willingdon’s policy towards Congress was one of:",
+    "options": {
+      "A": "Reconciliation and cooperation",
+      "B": "Suppression rather than reconciliation",
+      "C": "Complete acceptance of all demands",
+      "D": "Abolition of all councils"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 104,
+    "question": "The Gandhi-Irwin Pact is associated with:",
+    "options": {
+      "A": "Suspension of Civil Disobedience and Congress participation in the next Round Table",
+      "B": "Immediate grant of Purna Swaraj",
+      "C": "Partition of India",
+      "D": "Creation of Pakistan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 105,
+    "question": "The Communal Award provided:",
+    "options": {
+      "A": "Separate electorates for depressed classes among others",
+      "B": "Complete abolition of electorates",
+      "C": "Universal adult franchise with joint electorates only",
+      "D": "Dominion status"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 106,
+    "question": "The Poona Pact between Gandhi and Ambedkar provided:",
+    "options": {
+      "A": "Reserved seats for depressed classes within joint electorates, giving up separate electorates",
+      "B": "Separate electorates for depressed classes",
+      "C": "No representation for depressed classes",
+      "D": "Partition of Poona"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 107,
+    "question": "The Government of India Act with provincial autonomy provided for:",
+    "options": {
+      "A": "Elected ministries in provinces, federal scheme and separate electorates continued",
+      "B": "Complete independence",
+      "C": "Abolition of all provinces",
+      "D": "Adult franchise for all without any reservation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 108,
+    "question": "In the provincial elections, Congress was NOT able to emerge as the single largest party in:",
+    "options": {
+      "A": "Punjab and Sind",
+      "B": "Assam and NWFP",
+      "C": "Punjab and Assam",
+      "D": "Assam and Madras"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 109,
+    "question": "The Tripuri crisis in Congress is associated with:",
+    "options": {
+      "A": "Subhas Bose’s re-election against the official candidate and later formation of Forward Bloc",
+      "B": "Gandhi’s retirement from Congress",
+      "C": "Jinnah joining Congress",
+      "D": "Ambedkar joining Congress"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 110,
+    "question": "The Forward Bloc was founded by:",
+    "options": {
+      "A": "Subhas Chandra Bose",
+      "B": "Vallabhbhai Patel",
+      "C": "Rajendra Prasad",
+      "D": "B. R. Ambedkar"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 111,
+    "question": "The August Offer and Individual Satyagraha are associated with:",
+    "options": {
+      "A": "British wartime proposals and Congress’s limited protest with selected satyagrahis",
+      "B": "Complete independence granted",
+      "C": "Naval mutiny trials",
+      "D": "Partition plan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 112,
+    "question": "The Cripps Mission proposals included:",
+    "options": {
+      "A": "Dominion status after the war and a constitution-making body, rejected by major parties",
+      "B": "Immediate Purna Swaraj",
+      "C": "Immediate partition",
+      "D": "Abolition of Congress"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 113,
+    "question": "The Quit India Movement is known for:",
+    "options": {
+      "A": "‘Do or Die’, mass upsurge and parallel governments at Ballia, Tamluk and Satara",
+      "B": "Complete constitutional cooperation",
+      "C": "Support to the war effort",
+      "D": "Demand for separate electorates only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 114,
+    "question": "After forming the Indian National Army, Subhas Bose recruited POWs and introduced a women’s detachment named after Rani of Jhansi. Which is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 115,
+    "question": "The INA women’s regiment (Rani of Jhansi Regiment) was led by:",
+    "options": {
+      "A": "Lakshmi Swaminathan (Sehgal)",
+      "B": "Sarojini Naidu",
+      "C": "Aruna Asaf Ali",
+      "D": "Sucheta Kripalani"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 116,
+    "question": "Rash Behari Bose is associated with:",
+    "options": {
+      "A": "Early revolutionary activity and later role in the INA in Southeast Asia",
+      "B": "Founding the Brahmo Samaj",
+      "C": "Leading the Prarthana Samaj",
+      "D": "Signing the Treaty of Salbai"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 117,
+    "question": "The Naval Mutiny in Bombay is associated with:",
+    "options": {
+      "A": "Ratings of HMIS Talwar and support strikes, hastening British decision to leave",
+      "B": "Peasant revolt in Bardoli",
+      "C": "Tribal revolt in Rampa",
+      "D": "Labour strike in Ahmedabad mills only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 118,
+    "question": "Consider statements about Cabinet Mission: 1. It was sent to negotiate transfer of power. 2. It proposed a two-tiered federal plan with regional autonomy. 3. There was to be a federation of provinces and states with a federal centre. 4. Provinces could form regional unions and surrender powers by mutual agreement. Which are correct?",
+    "options": {
+      "A": "1 and 3 only",
+      "B": "1, 2 and 4 only",
+      "C": "2, 3 and 4 only",
+      "D": "1, 2, 3 and 4"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 119,
+    "question": "Which one is NOT correct about the Indian Independence Act?",
+    "options": {
+      "A": "The Bill was introduced in Parliament and received Royal Assent",
+      "B": "It laid down the basic framework of the Indian Constitution in detail",
+      "C": "It provided for two independent Dominions—India and Pakistan",
+      "D": "It empowered each Constituent Assembly to frame any constitution"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 120,
+    "question": "The boundary between India and Pakistan during Partition was demarcated by:",
+    "options": {
+      "A": "Cyril Radcliffe",
+      "B": "Mortimer Durand",
+      "C": "Henry McMahon",
+      "D": "Arthur Balfour"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 121,
+    "question": "The integration of princely states is credited mainly to:",
+    "options": {
+      "A": "Vallabhbhai Patel and V. P. Menon",
+      "B": "British Viceroy alone",
+      "C": "French governors",
+      "D": "Portuguese viceroys"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 122,
+    "question": "Hyderabad, Junagadh and Kashmir posed integration challenges because:",
+    "options": {
+      "A": "Rulers’ choices conflicted with popular or geographical factors, requiring police/diplomatic/military action or accession",
+      "B": "They were already part of Pakistan",
+      "C": "They were British counties",
+      "D": "They demanded French rule"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 123,
+    "question": "Gandhi’s suggestion to dissolve Congress as a political organisation and replace it by a Lok Sevak Sangh was made by:",
+    "options": {
+      "A": "Vallabhbhai Patel",
+      "B": "B. R. Ambedkar",
+      "C": "M. K. Gandhi",
+      "D": "Jawaharlal Nehru"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 124,
+    "question": "The Dandi March is associated with:",
+    "options": {
+      "A": "Salt Satyagraha and Civil Disobedience",
+      "B": "Non-Cooperation school boycott",
+      "C": "Quit India parallel government",
+      "D": "INA trials"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 125,
+    "question": "The Simon Commission was boycotted because:",
+    "options": {
+      "A": "It had no Indian member",
+      "B": "It granted Purna Swaraj",
+      "C": "It abolished all councils",
+      "D": "It supported the League’s Pakistan demand"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 126,
+    "question": "The Nehru Report is known for:",
+    "options": {
+      "A": "Congress-backed constitutional proposals as a reply to the challenge of framing a constitution",
+      "B": "Demand for Pakistan",
+      "C": "British plan for partition",
+      "D": "INA defence plea"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 127,
+    "question": "The Lahore Session is famous for:",
+    "options": {
+      "A": "Purna Swaraj (complete independence) as the goal",
+      "B": "Surat Split",
+      "C": "Poona Pact",
+      "D": "Cabinet Mission acceptance"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 128,
+    "question": "The Karachi Session is known for:",
+    "options": {
+      "A": "Resolution on Fundamental Rights and National Economic Programme",
+      "B": "Partition resolution",
+      "C": "INA formation",
+      "D": "Wavell Plan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 129,
+    "question": "Dyarchy meant:",
+    "options": {
+      "A": "Division of provincial subjects into reserved and transferred under elected ministers partly responsible",
+      "B": "Complete provincial autonomy",
+      "C": "Central bicameralism only",
+      "D": "Separate electorates"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 130,
+    "question": "Provincial Autonomy differed from Dyarchy because under Provincial Autonomy:",
+    "options": {
+      "A": "Elected ministries became responsible for nearly all provincial subjects",
+      "B": "No elections were held",
+      "C": "Governors had no powers at all",
+      "D": "Only British officials could be ministers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 131,
+    "question": "The Rowlatt Act gave powers of:",
+    "options": {
+      "A": "Detention without trial for political offences",
+      "B": "Universal franchise",
+      "C": "Abolition of salt tax",
+      "D": "Free press"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 132,
+    "question": "The Hunter Committee/Inquiry is associated with:",
+    "options": {
+      "A": "Jallianwala Bagh tragedy",
+      "B": "Hunter Education Commission of 19th century",
+      "C": "INA trials",
+      "D": "Partition boundary"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 133,
+    "question": "The Khilafat Movement was supported by Gandhi because:",
+    "options": {
+      "A": "It offered Hindu-Muslim unity against British on the Caliphate issue",
+      "B": "It demanded Pakistan",
+      "C": "It opposed Non-Cooperation",
+      "D": "It supported separate electorates only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 134,
+    "question": "Chauri Chaura led Gandhi to:",
+    "options": {
+      "A": "Suspend Non-Cooperation as the movement turned violent",
+      "B": "Launch Civil Disobedience immediately",
+      "C": "Start Dandi March",
+      "D": "Join the Round Table at once"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 135,
+    "question": "The Swaraj Party was founded by:",
+    "options": {
+      "A": "C. R. Das and Motilal Nehru",
+      "B": "Gandhi and Patel",
+      "C": "Tilak and Besant",
+      "D": "Bose and Singh"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 136,
+    "question": "The Butler Committee, Hartog Committee and Sapru Committee were concerned respectively with:",
+    "options": {
+      "A": "Princely states’ relations, education, and constitutional/unemployment issues",
+      "B": "Only naval affairs",
+      "C": "Only railway fares",
+      "D": "Only foreign policy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 137,
+    "question": "The Meerut Conspiracy Case was directed against:",
+    "options": {
+      "A": "Early communists and trade unionists",
+      "B": "INA officers",
+      "C": "Ghadarites in America",
+      "D": "1857 rebels"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 138,
+    "question": "The Komagata Maru incident is associated with:",
+    "options": {
+      "A": "Restrictions on Indian immigration to Canada and Ghadar influence",
+      "B": "Salt tax",
+      "C": "Indigo planters",
+      "D": "Railway guarantee"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 139,
+    "question": "The Home Rule demand meant:",
+    "options": {
+      "A": "Self-government within the Empire through constitutional agitation",
+      "B": "Immediate violent revolution",
+      "C": "Complete isolation from world",
+      "D": "Separate Pakistan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 140,
+    "question": "The Lucknow Pact accepted:",
+    "options": {
+      "A": "Separate electorates as a compromise for joint action",
+      "B": "Complete abolition of all electorates",
+      "C": "Purna Swaraj at once",
+      "D": "Partition"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 141,
+    "question": "The Satyashodhak Samaj–Bardoli–Chipko correct earliest-to-latest idea (without dates) is:",
+    "options": {
+      "A": "Social reform against caste, then peasant Satyagraha, then ecological movement",
+      "B": "Ecological, then peasant, then social",
+      "C": "Peasant, then ecological, then social",
+      "D": "All occurred simultaneously"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 142,
+    "question": "The Moderate–Extremist reunion occurred at:",
+    "options": {
+      "A": "Lucknow",
+      "B": "Surat",
+      "C": "Gaya",
+      "D": "Tripuri"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 143,
+    "question": "The Surat, Calcutta, Lucknow, Gaya and Tripuri sessions are remembered for:",
+    "options": {
+      "A": "Split, Swadeshi resolutions, reunion-pact, Swarajist split and Bose crisis respectively",
+      "B": "All adopting the same resolution",
+      "C": "All boycotting all reforms",
+      "D": "All demanding Pakistan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 144,
+    "question": "The Muslim League’s Pakistan Resolution and the Second Round Table and Dandi March differ because:",
+    "options": {
+      "A": "Dandi launched mass action, Gandhi-Irwin tried settlement, Round Table negotiated, Pakistan demand came later",
+      "B": "All happened in the same week",
+      "C": "All were British proposals",
+      "D": "All were INA battles"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 145,
+    "question": "The Wavell Plan and Simla Conference failed mainly over:",
+    "options": {
+      "A": "Disagreement on representation, especially Muslim seats and League’s claims",
+      "B": "Salt tax rates",
+      "C": "Railway fares",
+      "D": "Language of courts"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 146,
+    "question": "Direct Action Day and the Interim Government are associated with:",
+    "options": {
+      "A": "League’s agitation and a Congress-League interim cabinet before Partition",
+      "B": "INA trials",
+      "C": "Home Rule",
+      "D": "Swadeshi"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 147,
+    "question": "The Mountbatten Plan provided for:",
+    "options": {
+      "A": "Partition with early transfer of power and princely choice",
+      "B": "United India with no partition",
+      "C": "French rule over India",
+      "D": "INA government"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 148,
+    "question": "The Constituent Assembly’s Objective Resolution was moved by:",
+    "options": {
+      "A": "Jawaharlal Nehru",
+      "B": "Vallabhbhai Patel",
+      "C": "B. R. Ambedkar",
+      "D": "Rajendra Prasad"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 149,
+    "question": "The Draft Constitution presented by Ambedkar described India as:",
+    "options": {
+      "A": "Union of States",
+      "B": "Federation of States in confederation",
+      "C": "Autonomous States with no centre",
+      "D": "Subsidiary States"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 150,
+    "question": "According to Ambedkar, the ‘heart and soul’ of the Constitution is:",
+    "options": {
+      "A": "Article 15",
+      "B": "Article 21",
+      "C": "Article 23",
+      "D": "Article 32"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 151,
+    "question": "Vande Mataram was taken from:",
+    "options": {
+      "A": "Anandamath",
+      "B": "Neel Darpan",
+      "C": "Bandi Jivan",
+      "D": "Indian Struggle"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 152,
+    "question": "‘Swaraj is my birthright’ is associated with:",
+    "options": {
+      "A": "Bal Gangadhar Tilak",
+      "B": "Gopal Krishna Gokhale",
+      "C": "Dadabhai Naoroji",
+      "D": "M. G. Ranade"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 153,
+    "question": "Gopal Krishna Gokhale is known as:",
+    "options": {
+      "A": "A Moderate leader and Gandhi’s political mentor, associated with Servants of India Society",
+      "B": "An HSRA founder",
+      "C": "A Ghadar founder",
+      "D": "A Forward Bloc founder"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 154,
+    "question": "The Servants of India Society and Seva Samiti at Allahabad are linked because:",
+    "options": {
+      "A": "Hriday Nath Kunzru of Servants of India founded Seva Samiti",
+      "B": "Both were British government departments",
+      "C": "Both were princely armies",
+      "D": "Both opposed all education"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 155,
+    "question": "Which member of the Servants of India Society founded Seva Samiti at Allahabad?",
+    "options": {
+      "A": "Shri Ram Bajpai",
+      "B": "Hriday Nath Kunzru",
+      "C": "S. G. Vaze",
+      "D": "Srinivas Shastri"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 156,
+    "question": "Narayan Surve is known for:",
+    "options": {
+      "A": "‘Maze Vidyapeeth’ on the life of Bombay’s working class",
+      "B": "Treaty of Salbai",
+      "C": "Discovery of Hampi",
+      "D": "Leading the Paika rebellion"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 157,
+    "question": "The Trade Disputes and Factory Acts in colonial India were responses to:",
+    "options": {
+      "A": "Growth of modern industry and labour agitation",
+      "B": "Tribal demands for forests",
+      "C": "Princely demands",
+      "D": "Foreign invasion"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 158,
+    "question": "The first Indian woman legislator in British India, a medical professional, was:",
+    "options": {
+      "A": "Dr. Muthulakshmi Reddy",
+      "B": "Sarojini Naidu",
+      "C": "Sucheta Kripalani",
+      "D": "Aruna Asaf Ali"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 159,
+    "question": "Which statement about Dr. Muthulakshmi Reddy is NOT correct?",
+    "options": {
+      "A": "She was the first girl student in a men’s college",
+      "B": "She was the first woman legislator in British India",
+      "C": "She was a medical professional",
+      "D": "She was honoured with the Bharat Ratna"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 160,
+    "question": "India’s first woman Chief Minister was:",
+    "options": {
+      "A": "Sarojini Naidu",
+      "B": "Sucheta Kripalani",
+      "C": "Vijaya Lakshmi Pandit",
+      "D": "Hansa Mehta"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 161,
+    "question": "Sarojini Naidu’s London delegation is remembered for:",
+    "options": {
+      "A": "Demand for female franchise",
+      "B": "Demand for salt tax increase",
+      "C": "Signing Trade treaty with France",
+      "D": "Leading INA march"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 162,
+    "question": "‘Stri-Purush-Tulana’ (Comparison Between Women and Men) was written by:",
+    "options": {
+      "A": "Tarabai Shinde",
+      "B": "Pandita Ramabai as medical diary",
+      "C": "Sarojini Naidu",
+      "D": "Muthulakshmi Reddy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 163,
+    "question": "Pandita Ramabai is known for:",
+    "options": {
+      "A": "Sharada Sadan and advocacy for women’s education and rights",
+      "B": "Leading the Ghadar Party",
+      "C": "Signing the Treaty of Salbai",
+      "D": "Discovering Hampi"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 164,
+    "question": "Jyotiba and Savitribai Phule are known for:",
+    "options": {
+      "A": "Opening schools for girls and depressed classes and anti-caste work",
+      "B": "Founding the INA",
+      "C": "Leading the Naval Mutiny",
+      "D": "Editing the Bombay Chronicle"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 165,
+    "question": "The Age of Consent and child-marriage reform debates involved:",
+    "options": {
+      "A": "Reformers seeking to raise marriage age against orthodox opposition",
+      "B": "Demand for partition",
+      "C": "Railway construction",
+      "D": "Salt tax"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 166,
+    "question": "The Widow Remarriage movement was strongly led by:",
+    "options": {
+      "A": "Ishwar Chandra Vidyasagar",
+      "B": "Radhakanta Deb",
+      "C": "Syed Ahmed Khan against reform",
+      "D": "Dutch governors"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 167,
+    "question": "The Theosophical Society in India is associated with:",
+    "options": {
+      "A": "Blavatsky–Olcott and later Annie Besant, with interest in Hindu revival and education",
+      "B": "Founding the Ghadar Party",
+      "C": "Leading the HSRA",
+      "D": "Signing the Poona Pact"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 168,
+    "question": "The Singh Sabha Movement was:",
+    "options": {
+      "A": "A Sikh reform movement against unorthodox practices",
+      "B": "A tribal revolt",
+      "C": "A mill strike",
+      "D": "A British army unit"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 169,
+    "question": "The Prarthana Samaj was led in Maharashtra by:",
+    "options": {
+      "A": "M. G. Ranade",
+      "B": "Tilak as orthodox opponent",
+      "C": "Ranjit Singh",
+      "D": "Marthanda Varma"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 170,
+    "question": "Young Bengal is associated with:",
+    "options": {
+      "A": "Henry Derozio and radical student reform thought",
+      "B": "Old orthodox Hindu Dharma Sabha",
+      "C": "French rule",
+      "D": "INA"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 171,
+    "question": "The Serampore trio did NOT include:",
+    "options": {
+      "A": "William Carey",
+      "B": "Joshua Marshman",
+      "C": "William Ward",
+      "D": "David Hare"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 172,
+    "question": "David Hare is known for:",
+    "options": {
+      "A": "Promoting Western education in Bengal, associated with Hindu College",
+      "B": "Leading the Santhal revolt",
+      "C": "Signing the Treaty of Salbai",
+      "D": "Founding the HSRA"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 173,
+    "question": "The Fort William College and Asiatic Society were:",
+    "options": {
+      "A": "Early colonial institutions for language and learning, with Jones and others",
+      "B": "Revolutionary centres",
+      "C": "Labour unions",
+      "D": "Princely courts"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 174,
+    "question": "James Prinsep is famous for:",
+    "options": {
+      "A": "Deciphering Brahmi and Kharosthi scripts",
+      "B": "Discovering Hampi",
+      "C": "Leading the Rampa rebellion",
+      "D": "Founding the Ghadar Party"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 175,
+    "question": "William Jones is famous for:",
+    "options": {
+      "A": "Founding the Asiatic Society and Indological studies",
+      "B": "Leading the INA",
+      "C": "Editing the Kisan Bulletin",
+      "D": "Signing the Treaty of Salbai"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 176,
+    "question": "The main grievances of the 1857 Revolt included:",
+    "options": {
+      "A": "Greased cartridges, annexations, loss of privileges and economic distress",
+      "B": "Demand for English education alone",
+      "C": "Demand for separate electorates",
+      "D": "Demand for salt tax increase"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 177,
+    "question": "Nana Sahib, Rani Lakshmibai, Kunwar Singh and Bahadur Shah are remembered as:",
+    "options": {
+      "A": "Leaders of the 1857 uprising at different centres",
+      "B": "Founders of Congress",
+      "C": "Ghadar leaders",
+      "D": "INA trial lawyers"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 178,
+    "question": "The Queen’s Proclamation after 1857 promised:",
+    "options": {
+      "A": "End of annexations, religious non-interference and equal opportunity",
+      "B": "Immediate independence",
+      "C": "Partition",
+      "D": "Separate Pakistan"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 179,
+    "question": "After 1857, the British reorganised the army by:",
+    "options": {
+      "A": "Increasing British-to-Indian ratio and balancing communities to prevent unity",
+      "B": "Disbanding all armies",
+      "C": "Recruiting only one community",
+      "D": "Handing army to princes"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 180,
+    "question": "The Indigo Revolt (Neel Bidroha) was significant because:",
+    "options": {
+      "A": "Peasants refused indigo cultivation against planter oppression",
+      "B": "Mill owners demanded higher wages",
+      "C": "Princes demanded annexation",
+      "D": "British demanded more salt tax"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 181,
+    "question": "The Pabna agrarian unrest was about:",
+    "options": {
+      "A": "Peasants resisting enhanced rents and zamindari oppression",
+      "B": "Naval ratings’ food",
+      "C": "Temple entry",
+      "D": "Language of courts"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 182,
+    "question": "The Eka Movement and Kisan Sabhas were:",
+    "options": {
+      "A": "Peasant organisations in UP/Bihar raising tenant demands",
+      "B": "Urban clubs for Europeans",
+      "C": "British trading firms",
+      "D": "Princely armies"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 183,
+    "question": "The All India Kisan Sabha is associated with:",
+    "options": {
+      "A": "Peasant demands like abolition of zamindari and reduction of revenue",
+      "B": "Industrialists’ profits",
+      "C": "British cabinet mission",
+      "D": "Naval strategy"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 184,
+    "question": "The Bardoli, Champaran, Kheda and Ahmedabad struggles differ in that:",
+    "options": {
+      "A": "They addressed revenue, indigo, crop failure and mill wages respectively under Gandhian methods",
+      "B": "All were naval mutinies",
+      "C": "All demanded partition",
+      "D": "All were led by the British"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 185,
+    "question": "The Woods/Despatch–Hunter–Raleigh–Sadler–Hartog–Sergeant chain is remembered for:",
+    "options": {
+      "A": "Stages of colonial education policy and inquiries",
+      "B": "Battles in Mysore",
+      "C": "Treaties with Marathas",
+      "D": "INA trials"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 186,
+    "question": "Basic/Nai Talim education proposed by Gandhi stressed:",
+    "options": {
+      "A": "Learning through craft and mother-tongue, self-reliance",
+      "B": "Only English classics",
+      "C": "Military training alone",
+      "D": "No rural education"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 187,
+    "question": "The Press Acts (Censorship, Licensing, Vernacular Press) show:",
+    "options": {
+      "A": "British attempts to control nationalist opinion, resisted by editors",
+      "B": "Complete press freedom always",
+      "C": "Indian demand for censorship",
+      "D": "French control over Indian press"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 188,
+    "question": "The Vernacular Press Act was repealed by:",
+    "options": {
+      "A": "Ripon",
+      "B": "Lytton",
+      "C": "Curzon",
+      "D": "Wellesley"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 189,
+    "question": "Local Self-Government resolution is associated with:",
+    "options": {
+      "A": "Ripon",
+      "B": "Curzon",
+      "C": "Dalhousie",
+      "D": "Wellesley"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 190,
+    "question": "The Partition of Bengal was carried out to:",
+    "options": {
+      "A": "Weaken nationalism by dividing Bengal, leading to Swadeshi and boycott",
+      "B": "Grant independence",
+      "C": "Promote Hindi",
+      "D": "End caste"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 191,
+    "question": "Swadeshi and Boycott stressed:",
+    "options": {
+      "A": "Use of Indian goods, national education and passive resistance",
+      "B": "Complete support to foreign goods",
+      "C": "Armed naval mutiny only",
+      "D": "Separate electorates"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 192,
+    "question": "The Morley-Minto reforms introduced:",
+    "options": {
+      "A": "Separate electorates and expanded councils with limited Indian association",
+      "B": "Provincial autonomy",
+      "C": "Purna Swaraj",
+      "D": "Quit India"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 193,
+    "question": "The Montagu-Chelmsford reforms introduced:",
+    "options": {
+      "A": "Dyarchy in provinces and expanded legislatures",
+      "B": "Separate Pakistan",
+      "C": "INA trials",
+      "D": "Salt Satyagraha"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 194,
+    "question": "The Government of India Act with federal scheme and provincial autonomy also:",
+    "options": {
+      "A": "Continued separate electorates and created new provinces like Sind and Odisha",
+      "B": "Granted independence",
+      "C": "Abolished all elections",
+      "D": "Banned Congress"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 195,
+    "question": "The demand for a Constituent Assembly meant:",
+    "options": {
+      "A": "Indians themselves should frame their constitution",
+      "B": "British Parliament should frame it alone",
+      "C": "Princes alone should frame it",
+      "D": "French should frame it"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 196,
+    "question": "The Objective Resolution aimed at:",
+    "options": {
+      "A": "Declaring India as independent, sovereign, republic with justice, equality and freedoms",
+      "B": "Partition on religious lines",
+      "C": "Continuation of colonial rule",
+      "D": "Military rule"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 197,
+    "question": "The C. Rajagopalachari Formula and Wavell Plan tried to:",
+    "options": {
+      "A": "Break the Congress-League deadlock on representation and transfer of power",
+      "B": "Increase salt tax",
+      "C": "Annex princely states early",
+      "D": "Start the INA"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 198,
+    "question": "The Shimla Agreement and Tashkent Agreement differ because:",
+    "options": {
+      "A": "Tashkent followed the 1965 war, Simla followed the 1971 war and stressed bilateralism",
+      "B": "Both created Pakistan",
+      "C": "Both ended British rule",
+      "D": "Both were about salt"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 199,
+    "question": "The Durand Line separates:",
+    "options": {
+      "A": "Afghanistan and Pakistan",
+      "B": "Afghanistan and Iran",
+      "C": "India and Pakistan",
+      "D": "Afghanistan and China"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 200,
+    "question": "The Tashkent Agreement was between:",
+    "options": {
+      "A": "India and the Soviet Union",
+      "B": "India and Pakistan",
+      "C": "India and Mongolia",
+      "D": "An agreement that created Bangladesh"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 201,
+    "question": "Which motif does NOT appear on Harappan seals?",
+    "options": {
+      "A": "Humped bull",
+      "B": "Elephant",
+      "C": "Lion",
+      "D": "Crocodile"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 202,
+    "question": "The most frequently depicted animal on Harappan seals is the:",
+    "options": {
+      "A": "Lion",
+      "B": "Unicorn (mythical single-horned animal)",
+      "C": "Horse",
+      "D": "Cow"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 203,
+    "question": "In the citadel and lower-town areas, several large cisterns and reservoirs have been found at:",
+    "options": {
+      "A": "Banawali",
+      "B": "Mohenjodaro",
+      "C": "Dholavira",
+      "D": "Rakhigarhi"
+    },
+    "answer": "C"
+  },
+  {
+    "question_number": 204,
+    "question": "Evidence of a ploughed field has been found at Kalibangan in the:",
+    "options": {
+      "A": "Early Harappan level",
+      "B": "Late medieval level",
+      "C": "Gupta level",
+      "D": "Vedic iron level only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 205,
+    "question": "Harappan seals were mostly made of:",
+    "options": {
+      "A": "Steatite",
+      "B": "Iron",
+      "C": "Glass",
+      "D": "Paper"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 206,
+    "question": "The Harappan script is best described as:",
+    "options": {
+      "A": "Pictographic and still undeciphered, generally written from right to left",
+      "B": "Alphabetic English",
+      "C": "Devanagari with full grammar known",
+      "D": "Persian cuneiform fully deciphered"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 207,
+    "question": "The Great Bath is located at:",
+    "options": {
+      "A": "Harappa",
+      "B": "Mohenjodaro",
+      "C": "Lothal",
+      "D": "Kalibangan"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 208,
+    "question": "The dockyard-like structure is famously associated with:",
+    "options": {
+      "A": "Lothal",
+      "B": "Harappa",
+      "C": "Rakhigarhi",
+      "D": "Banawali"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 209,
+    "question": "Dholavira is specially noted for:",
+    "options": {
+      "A": "Elaborate water management with reservoirs, a signboard and a three-part town plan",
+      "B": "A dockyard only",
+      "C": "Iron furnaces",
+      "D": "Buddhist stupas"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 210,
+    "question": "Kalibangan is specially noted for:",
+    "options": {
+      "A": "Fire altars and a ploughed field, with no street drains in some areas",
+      "B": "A dockyard",
+      "C": "A Great Bath",
+      "D": "Iron weapons"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 211,
+    "question": "Rakhigarhi is important because it:",
+    "options": {
+      "A": "Is among the largest Harappan sites, located in Haryana",
+      "B": "Is a medieval fort",
+      "C": "Is a Gupta temple site",
+      "D": "Is a colonial port"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 212,
+    "question": "Lothal is also noted for:",
+    "options": {
+      "A": "Bead-making, shell work and rice evidence",
+      "B": "Lion capitals",
+      "C": "Iron swords",
+      "D": "Buddhist caves"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 213,
+    "question": "Chanhudaro is noted for:",
+    "options": {
+      "A": "Bangle/bead factory with no citadel found",
+      "B": "A dockyard",
+      "C": "A Great Bath",
+      "D": "Reservoirs like Dholavira"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 214,
+    "question": "Surkotada is debated because of reported:",
+    "options": {
+      "A": "Horse bones suggesting knowledge of horse",
+      "B": "Lion seals",
+      "C": "Iron ploughs",
+      "D": "Coins with English legends"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 215,
+    "question": "Daimabad is noted for:",
+    "options": {
+      "A": "Bronze animal figures including rhinoceros and elephants",
+      "B": "Iron cannons",
+      "C": "Marble temples",
+      "D": "Paper manuscripts"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 216,
+    "question": "Banawali is noted for:",
+    "options": {
+      "A": "Barley grains, toy plough and town planning without a separate citadel in parts",
+      "B": "A dockyard",
+      "C": "Lion seals",
+      "D": "Buddhist stupas"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 217,
+    "question": "Kot Diji and Amri are important as:",
+    "options": {
+      "A": "Early/Pre-Harappan settlements showing development towards urbanism",
+      "B": "Medieval capitals",
+      "C": "British cantonments",
+      "D": "Iron Age megaliths only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 218,
+    "question": "Harappan town planning typically shows:",
+    "options": {
+      "A": "Grid pattern streets, burnt bricks and covered drains",
+      "B": "Random huts with no drains",
+      "C": "Circular stone castles only",
+      "D": "No use of bricks"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 219,
+    "question": "Harappan drainage is remarkable for:",
+    "options": {
+      "A": "Covered drains, manholes and house connections",
+      "B": "Open dumping with no planning",
+      "C": "Plastic pipes",
+      "D": "No sanitation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 220,
+    "question": "The standard Harappan weights were made of:",
+    "options": {
+      "A": "Chert with a binary-decimal ratio",
+      "B": "Iron with metric stamps",
+      "C": "Paper with seals",
+      "D": "Glass with English marks"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 221,
+    "question": "Harappan trade with Mesopotamia is indicated by:",
+    "options": {
+      "A": "Harappan seals in Mesopotamia and references to Meluhha",
+      "B": "English factory records",
+      "C": "Chinese porcelain",
+      "D": "Roman coins alone"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 222,
+    "question": "Meluhha in Mesopotamian texts is identified with:",
+    "options": {
+      "A": "The Indus region",
+      "B": "Egypt",
+      "C": "Greece",
+      "D": "Central Asia only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 223,
+    "question": "Harappan pottery is typically:",
+    "options": {
+      "A": "Red-and-black with pipal, fish and geometric designs; perforated pots for straining",
+      "B": "Blue-glazed porcelain only",
+      "C": "Paper cups",
+      "D": "Iron vessels"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 224,
+    "question": "Harappan beads were commonly made of:",
+    "options": {
+      "A": "Carnelian, steatite, shell and lapis lazuli",
+      "B": "Plastic",
+      "C": "Stainless steel",
+      "D": "Rubber"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 225,
+    "question": "Harappan metalwork included bronze, which is an alloy of:",
+    "options": {
+      "A": "Copper and tin",
+      "B": "Iron and carbon",
+      "C": "Copper and zinc only for all tools",
+      "D": "Lead and silver only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 226,
+    "question": "Which metal was NOT known to the Harappans for tools?",
+    "options": {
+      "A": "Gold",
+      "B": "Copper",
+      "C": "Bronze",
+      "D": "Iron"
+    },
+    "answer": "D"
+  },
+  {
+    "question_number": 227,
+    "question": "Harappan agriculture included:",
+    "options": {
+      "A": "Wheat, barley, cotton and peas; rice at some sites like Lothal",
+      "B": "Only tea and coffee",
+      "C": "Only rubber",
+      "D": "Maize and potato as staples"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 228,
+    "question": "The Harappans were the earliest in the region to grow:",
+    "options": {
+      "A": "Cotton",
+      "B": "Tea",
+      "C": "Coffee",
+      "D": "Tobacco"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 229,
+    "question": "Harappan domestic animals included:",
+    "options": {
+      "A": "Humped bull, buffalo, elephant and camel; horse evidence is rare/disputed",
+      "B": "Only lions and tigers",
+      "C": "Only dinosaurs",
+      "D": "Merino sheep from Australia"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 230,
+    "question": "The Pashupati seal shows:",
+    "options": {
+      "A": "A horned figure surrounded by animals, identified by some as proto-Shiva",
+      "B": "A lion capital",
+      "C": "A Christian cross",
+      "D": "A Persian king"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 231,
+    "question": "Harappan religion is inferred from:",
+    "options": {
+      "A": "Mother Goddess figurines, Pashupati seal, pipal worship and fire altars, with no large temples found",
+      "B": "Large stone temples in every street",
+      "C": "Churches and mosques",
+      "D": "Printed prayer books"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 232,
+    "question": "Harappan burials typically show:",
+    "options": {
+      "A": "Extended burials with pots and ornaments, generally oriented north-south",
+      "B": "Large pyramids",
+      "C": "Cremation in electric furnaces",
+      "D": "Ship burials"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 233,
+    "question": "The ‘Priest King’ and dancing girl bronze are associated with:",
+    "options": {
+      "A": "Mohenjodaro",
+      "B": "Dholavira reservoirs",
+      "C": "Kalibangan fields",
+      "D": "Medieval temples"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 234,
+    "question": "The Harappan granary is famously associated with:",
+    "options": {
+      "A": "Harappa and Mohenjodaro as storage platforms",
+      "B": "Modern FCI godowns",
+      "C": "British railway sheds",
+      "D": "Mughal tombs"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 235,
+    "question": "Harappan bricks were generally:",
+    "options": {
+      "A": "Burnt bricks in a standard ratio, used for drains and houses",
+      "B": "Sun-dried only with no standard",
+      "C": "Marble slabs",
+      "D": "Iron blocks"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 236,
+    "question": "The Levallois technique refers to:",
+    "options": {
+      "A": "Making perforated Harappan pottery",
+      "B": "Making prehistoric flake tools",
+      "C": "Making iron swords",
+      "D": "Printing books"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 237,
+    "question": "Which pair (site–speciality) is correctly matched?",
+    "options": {
+      "A": "Lothal–dockyard",
+      "B": "Dholavira–dockyard only",
+      "C": "Kalibangan–dockyard",
+      "D": "Rakhigarhi–dockyard"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 238,
+    "question": "Which pair (site–speciality) is correctly matched?",
+    "options": {
+      "A": "Kalibangan–ploughed field and fire altars",
+      "B": "Lothal–Great Bath",
+      "C": "Harappa–signboard",
+      "D": "Mohenjodaro–ploughed field only"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 239,
+    "question": "Which pair (animal–Harappan seal) is correctly described?",
+    "options": {
+      "A": "Lion–commonly depicted",
+      "B": "Unicorn–most common",
+      "C": "Horse–most common and clearly depicted everywhere",
+      "D": "Cow–most common"
+    },
+    "answer": "B"
+  },
+  {
+    "question_number": 240,
+    "question": "Which animals appear on Harappan seals?",
+    "options": {
+      "A": "Humped bull, elephant, rhinoceros, buffalo and crocodile",
+      "B": "Lion, horse and cow as the common trio",
+      "C": "Kangaroo and zebra",
+      "D": "Only mythical dragons"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 241,
+    "question": "Harappan external trade items included:",
+    "options": {
+      "A": "Beads, seals, copper goods and cotton in exchange for tin, lapis and wool",
+      "B": "Cars and airplanes",
+      "C": "Tea and opium for China only",
+      "D": "Paper currency"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 242,
+    "question": "Harappan weights followed a ratio of:",
+    "options": {
+      "A": "1:2:4:8:16 in lower values",
+      "B": "1:3:5:7 random",
+      "C": "Metric kilograms with English stamps",
+      "D": "No standard at all"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 243,
+    "question": "The absence of large temples and palaces at Harappan sites suggests:",
+    "options": {
+      "A": "A different political-religious organisation, possibly merchant-priest or collective control",
+      "B": "No social life",
+      "C": "Complete British control",
+      "D": "Medieval Sultanate rule"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 244,
+    "question": "Harappan decline is best described as:",
+    "options": {
+      "A": "Likely due to multiple factors—river shifts, floods, climate stress and trade decline—with no single agreed cause",
+      "B": "Proven to be only an Aryan invasion",
+      "C": "Proven to be only a volcanic eruption",
+      "D": "Due to British annexation"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 245,
+    "question": "Alamgirpur, Manda, Daimabad and Sutkagendor mark Harappan:",
+    "options": {
+      "A": "Eastern, northern, southern and western limits respectively",
+      "B": "Capitals of four kingdoms",
+      "C": "British cantonments",
+      "D": "Buddhist sites"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 246,
+    "question": "Sutkagendor and Shortugai show Harappan:",
+    "options": {
+      "A": "Far-flung trade contacts towards the west and north",
+      "B": "Naval mutiny bases",
+      "C": "Mughal forts",
+      "D": "Railway junctions"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 247,
+    "question": "Harappan cotton and textiles are indicated by:",
+    "options": {
+      "A": "Cotton seeds/fragments and spindle whorls for spinning",
+      "B": "Power looms",
+      "C": "Synthetic fibres",
+      "D": "Jute mills"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 248,
+    "question": "The perforated Harappan pottery was likely used for:",
+    "options": {
+      "A": "Straining liquids",
+      "B": "Storing iron swords",
+      "C": "Making coins",
+      "D": "Printing books"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 249,
+    "question": "Terracotta toys, carts and whistles at Harappan sites indicate:",
+    "options": {
+      "A": "Craft skill and everyday life with wheeled transport",
+      "B": "Space travel",
+      "C": "Modern factories",
+      "D": "Colonial schools"
+    },
+    "answer": "A"
+  },
+  {
+    "question_number": 250,
+    "question": "Which statement about Harappan civilisation is NOT correct?",
+    "options": {
+      "A": "It had planned towns with drains and standard weights",
+      "B": "It traded with Mesopotamia and used seals",
+      "C": "It used iron tools widely and built large stone temples in every city",
+      "D": "It made bronze, beads and red-black pottery"
+    },
+    "answer": "C"
+  }
+]
